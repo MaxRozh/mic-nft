@@ -1,0 +1,37 @@
+{
+  "name": "TankTop Hey-D #1615",
+  "description": "Stylish and comfortable in the summerand remember CryptoDays.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmSbja856evFErszHStMEdKZYuJpjjwMbWz3Ye3JKagXXi/Mythical-TankTop-black-CryptoDays.png",
+  "content_url": "ipfs://ipfs/ipfs/QmSbja856evFErszHStMEdKZYuJpjjwMbWz3Ye3JKagXXi/Mythical-TankTop-black-CryptoDays.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "20%"
+    },
+    {
+      "trait_type": "margin",
+      "value": "20%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "20%"
+    }
+  ]
+}

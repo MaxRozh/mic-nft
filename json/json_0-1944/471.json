@@ -1,0 +1,37 @@
+{
+  "name": "Street Wear Long TonTaxi  #1104",
+  "description": "I wonder how many free taxi rides there are?.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmVCrvA99iRHWWyFJQRpiXeoGnGPfAa8QeFDcLXd7HXWAK/Uncommon-ton-taxi.png",
+  "content_url": "ipfs://ipfs/QmVCrvA99iRHWWyFJQRpiXeoGnGPfAa8QeFDcLXd7HXWAK/Uncommon-ton-taxi.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "UnCommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Fabric loop "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": " Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

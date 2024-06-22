@@ -1,0 +1,33 @@
+{
+  "name": "StratWear Oxxximiron #1752",
+  "description": "What is autumn if spring is an actress?",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmfXP3nBVkrwGTVEjmj8FB2tYzAQkHqeiarKMMQNX4tDzA/Legendary-Street-wear-Oxxxy.png",
+  "content_url": "ipfs://ipfs/ipfs/QmfXP3nBVkrwGTVEjmj8FB2tYzAQkHqeiarKMMQNX4tDzA/Legendary-Street-wear-Oxxxy.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

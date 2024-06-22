@@ -1,0 +1,33 @@
+{
+    "name": "Mocco Leggins  #577",
+    "description": "Basic Mocco leggings that perfectly highlight your figure .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmX5m6ZYE43MDozLvAzbFDRuqKnEbkwMCKwo8wvwaREi6o/Leggings-basic_Mocco.png",
+    "content_url": "ipfs://QmX5m6ZYE43MDozLvAzbFDRuqKnEbkwMCKwo8wvwaREi6o/Leggings-basic-mocco.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Leggins"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Mocco"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

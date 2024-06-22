@@ -1,0 +1,33 @@
+{
+  "name": "Set MIC #1855",
+  "description": "What could be better than a light, beautiful outfit from our designer?",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmVuv1UT1uQmksaHnzt52xDo8f2Ms7bJgBGVkq1FfNmer2/Set-MIC.png",
+  "content_url": "ipfs://ipfs/ipfs/QmVuv1UT1uQmksaHnzt52xDo8f2Ms7bJgBGVkq1FfNmer2/Set-MIC.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Eco "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Set"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

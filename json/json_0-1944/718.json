@@ -1,0 +1,33 @@
+{
+    "name": "Graphite Leggins  #613",
+    "description": "Basic Graphite leggings that perfectly highlight your figure .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmfZbrYgds6F3eyNNqsvf8oisKYf7vwmgDJtDQvT46pTM3/Leggings-basic_Graphite.png",
+    "content_url": "ipfs://QmfZbrYgds6F3eyNNqsvf8oisKYf7vwmgDJtDQvT46pTM3/Leggings-basic-graphite.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Leggins"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Graphite"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

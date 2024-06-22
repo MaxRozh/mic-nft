@@ -1,0 +1,33 @@
+{
+    "name": "Black Crop  #1241",
+    "description": "Black Crop is something that can be worn on top under everything, but can it be crossed?.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmZGCAQusWK5ULWtTaBAZZGTxfqSn9qvx6cDY5qVqmkQYw/Crop%2Btop-crop.png",
+    "content_url": "ipfs://ipfs/QmZGCAQusWK5ULWtTaBAZZGTxfqSn9qvx6cDY5qVqmkQYw/Crop%2Btop-crop-1.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "uncommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Crop"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

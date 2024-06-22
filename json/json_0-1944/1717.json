@@ -1,0 +1,33 @@
+{
+    "name": "$MIC men's briefs  #1348",
+    "description": "Microdiving men's briefs, light, fresh, everything as it should be.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmVvD6pAyDQiRgAH2f6KxD5zZtrCJp9djkMaXiAzfH1K9N/Rare-Underwear-black-MIC.png",
+    "content_url": "ipfs://ipfs/QmVvD6pAyDQiRgAH2f6KxD5zZtrCJp9djkMaXiAzfH1K9N/Rare-Underwear-black-MIC-1.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "underwear"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "20%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "20%"
+        }
+    ]
+}

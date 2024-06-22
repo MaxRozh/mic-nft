@@ -1,0 +1,37 @@
+{
+  "name": "Carbon bodysuit from Ptah  #1866",
+  "description": "Carbon bodysuit from Ptah",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmeF69LyfeiZz7HdKq7gvv5vEFxau6C4GPtdYVQyS6591Z/Swimwear-Ptah.png",
+  "content_url": "ipfs://ipfs/ipfs/QmeF69LyfeiZz7HdKq7gvv5vEFxau6C4GPtdYVQyS6591Z/Swimwear-Ptah.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Microdiving "
+    },
+    {
+      "trait_type": "Type",
+      "value": "bodysuit"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

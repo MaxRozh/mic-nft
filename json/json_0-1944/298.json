@@ -1,0 +1,33 @@
+{
+  "name": "White Eco Bra #1830",
+  "description": "White eco leather bra ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/Qmf8Fg2Bq82Qpz9tk3zGRKauAjLqjVs1gPjQ1CgDVYSC1n/Legendary-Bra-white.png",
+  "content_url": "ipfs://ipfs/ipfs/Qmf8Fg2Bq82Qpz9tk3zGRKauAjLqjVs1gPjQ1CgDVYSC1n/Legendary-Bra-white.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Eco "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bra"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

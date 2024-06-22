@@ -1,0 +1,37 @@
+{
+  "name": "Mini shorts HYDRA #1782",
+  "description": "Mini shorts HYDRA in Black color",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmPczwakrfy7G873s7ENuW345pd5VTweHGQogdDYNyLsoW/Shorts-Hydra-black.png",
+  "content_url": "ipfs://ipfs/ipfs/QmPczwakrfy7G873s7ENuW345pd5VTweHGQogdDYNyLsoW/Shorts-Hydra-black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Jeans "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Short"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

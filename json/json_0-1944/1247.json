@@ -1,0 +1,33 @@
+{
+  "name": "MIC Eco Bra #1842",
+  "description": "Black eco leather bra from Microdiving ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmWS1MoPjFXJx4Ab5ZfX37HwjZ921tZbC9zX1AJBHjSk5s/Legendary-Bra-MIC.png",
+  "content_url": "ipfs://ipfs/ipfs/QmWS1MoPjFXJx4Ab5ZfX37HwjZ921tZbC9zX1AJBHjSk5s/Legendary-Bra-MIC.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Eco "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bra"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

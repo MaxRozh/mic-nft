@@ -1,0 +1,33 @@
+{
+  "name": "Shorts Graphite  #445",
+  "description": "Classic men's shorts .",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmeeCvEpT4VRReZ8mxm14fYmUU7WznC6kU9C5o71nU1i3a/Men%20shorts-graphite.png",
+  "content_url": "ipfs://QmeeCvEpT4VRReZ8mxm14fYmUU7WznC6kU9C5o71nU1i3a/Men%20shorts-graphite.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Stretchy cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shorts"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Graphite"
+    },
+    {
+      "trait_type": "margin",
+      "value": "5%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "5%"
+    }
+  ]
+}

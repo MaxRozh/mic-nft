@@ -1,0 +1,33 @@
+{
+    "name": "Crop top White   #916",
+    "description": "Basic crop top in white .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmbpE9oB85gQ8ffQtYCacruQfnzgLHaD1E9YszDtf4v8tq/Копия%20Crop%2Btop-top.png",
+    "content_url": "ipfs://ipfs/QmbpE9oB85gQ8ffQtYCacruQfnzgLHaD1E9YszDtf4v8tq/Копия%20Crop%2Btop-top.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "UnCommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Top"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Ptah knitted top  #1849",
+  "description": "Lightweight knitted top from Ptah",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmczHWt3S3QwEPN9XiaLmoJz2qqaEeb4Gaia64cTq2aVbK/Ptah-outfit-W-top.png",
+  "content_url": "ipfs://ipfs/ipfs/QmczHWt3S3QwEPN9XiaLmoJz2qqaEeb4Gaia64cTq2aVbK/Ptah-outfit-W-top.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "ECO "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Top"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

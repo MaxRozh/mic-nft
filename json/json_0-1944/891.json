@@ -1,0 +1,33 @@
+{
+    "name": "Vest unloading Gray #1898",
+    "description": "Vest unloading Grey its Trands ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmPUenPTJvnnaJNwJSWLT1GtQCiDJzTq47Co8Q5dYGGbee/Jacket1-Grey.png",
+    "content_url": "ipfs://ipfs/ipfs/QmPUenPTJvnnaJNwJSWLT1GtQCiDJzTq47Co8Q5dYGGbee/Jacket1-Grey.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Imortal"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Carbon "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Jacket"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Gray"
+        },
+        {
+            "trait_type": " margin",
+            "value": "30%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "30%"
+        }
+    ]
+}

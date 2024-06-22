@@ -1,0 +1,33 @@
+{
+    "name": "Oversaiz StreatWear White #1632",
+    "description": "Oversized street style T-shirt.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/Qmc1XFV3m8xfGA3QCDWHapau7o3zDmYrnNd7zFxM8Kt9H9/Mythical-StreetWear-white.png",
+    "content_url": "ipfs://ipfs/ipfs/Qmc1XFV3m8xfGA3QCDWHapau7o3zDmYrnNd7zFxM8Kt9H9/Mythical-StreetWear-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Mythical"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "T-Shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "20%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "20%"
+        }
+    ]
+}

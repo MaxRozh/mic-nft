@@ -1,0 +1,33 @@
+{
+    "name": "Sammwer dress White #1852",
+    "description": "Summer beautiful light dress White",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmNbgdpkfEKy2v3Yw9DPJ66TQC2bxgUoLDmMTqpGiSA1fL/Immortal-skirt.png",
+    "content_url": "ipfs://ipfs/ipfs/QmNbgdpkfEKy2v3Yw9DPJ66TQC2bxgUoLDmMTqpGiSA1fL/Immortal-skirt.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Imortal"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Dress"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": " margin",
+            "value": "30%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "30%"
+        }
+    ]
+}

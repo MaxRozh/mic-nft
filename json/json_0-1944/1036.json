@@ -1,0 +1,37 @@
+{
+  "name": "Anti-Toxic Mask #1847",
+  "description": "Mask against toxic chats and for winning raids SCAM",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmZxdYpX4oN8xZa9sbt5pizKbGioQYx3R8JABjjPwBiGpv/Scam-mask.png",
+  "content_url": "ipfs://ipfs/ipfs/QmZxdYpX4oN8xZa9sbt5pizKbGioQYx3R8JABjjPwBiGpv/Scam-mask.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "CAT "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

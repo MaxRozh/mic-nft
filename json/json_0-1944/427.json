@@ -1,0 +1,33 @@
+{
+    "name": "Shirt mini White #1473",
+    "description": "Strict classic skirt Office or just going out?.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmexVhntrfUvqzmpEW1kTTpkXmURo2ffRCWew3JhSQdZ56/Rare-skirt-mini-white.png",
+    "content_url": "ipfs://ipfs/QmexVhntrfUvqzmpEW1kTTpkXmURo2ffRCWew3JhSQdZ56/Rare-skirt-mini-white-1.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "15%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "15%"
+        }
+    ]
+}

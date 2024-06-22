@@ -1,0 +1,37 @@
+{
+  "name": "Classic jacket Barboskin White #1598",
+  "description": "A classic jacket that will highlight your successful transactions.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/Qmb3pQvRWiFtm3ACzEpoPUQL1G3NyhQcBrLgnki6kCTPpU/Barboskin-blazer-milk.png",
+  "content_url": "ipfs://ipfs/Qmb3pQvRWiFtm3ACzEpoPUQL1G3NyhQcBrLgnki6kCTPpU/Barboskin-blazer-milk.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Milk"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

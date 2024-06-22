@@ -1,0 +1,33 @@
+{
+  "name": "Sleeveless hoodie MIC  #1917",
+  "description": "Sleeveless hoodie from MIC ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmNrCobjnfnuFjGTDH6URRCeaL2M6vcWD998HYJewpxUBu/Immortal-Hoodie-MIC.png",
+  "content_url": "ipfs://ipfs/ipfs/QmNrCobjnfnuFjGTDH6URRCeaL2M6vcWD998HYJewpxUBu/Immortal-Hoodie-MIC.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

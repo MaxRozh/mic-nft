@@ -1,0 +1,37 @@
+{
+  "name": "HYDRA Thong #1362",
+  "description": "The best Thongs for a Lady and remember Only Hydra has the best rewards.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmSbtqGA9won1TBgmsXdecHpZHKRwjmpGrX9T76Akoo7DX/Thong-black-Hydra.png",
+  "content_url": "ipfs://ipfs/QmSbtqGA9won1TBgmsXdecHpZHKRwjmpGrX9T76Akoo7DX/Thong-black-Hydra.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Thong"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

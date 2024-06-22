@@ -1,0 +1,33 @@
+{
+    "name": "Underwear Wgite  #814",
+    "description": "Comfortable, stylish, and just fresh .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmPhxWFVfWhxqHvKLgNXTbjCrfyvWRH67iapdp7KK45eiT/Uncommon-Underpants-men-white.png",
+    "content_url": "ipfs://ipfs/QmPhxWFVfWhxqHvKLgNXTbjCrfyvWRH67iapdp7KK45eiT/Uncommon-Underpants-men-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "UnCommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Underpants"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

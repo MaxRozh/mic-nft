@@ -1,0 +1,37 @@
+{
+  "name": "Sleeveless hoodie TonyTon  #1919",
+  "description": "Sleeveless hoodie from TonYTon ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmPqyuVaPb9ovNyhZLMHMqAnzhivK4NTDiDKPqegVXCnU6/Immortal-Hoodie-Duck.png",
+  "content_url": "ipfs://ipfs/ipfs/QmPqyuVaPb9ovNyhZLMHMqAnzhivK4NTDiDKPqegVXCnU6/Immortal-Hoodie-Duck.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

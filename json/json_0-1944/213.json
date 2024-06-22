@@ -1,0 +1,33 @@
+{
+  "name": "White dress shirt #1761",
+  "description": "White classic shirt pink is the hit of the season",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmQLXPNvpgEBC684eHqbRrVdPpUbgwjaoSzusgutvLYB8f/Shirt-Barboskin-men-white.png",
+  "content_url": "ipfs://ipfs/ipfs/QmQLXPNvpgEBC684eHqbRrVdPpUbgwjaoSzusgutvLYB8f/Shirt-Barboskin-men-white.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

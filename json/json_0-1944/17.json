@@ -1,0 +1,33 @@
+{
+    "name": "Underwear $MIC  #889",
+    "description": "Comfortable, stylish, and just fresh For real holders .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmTkc4cbp5ucXMvhYnBKx9Ad2wz3JXgKjLMFay6DdjGb47/Uncommon-Underpants-men-black-MIC.png",
+    "content_url": "ipfs://ipfs/QmTkc4cbp5ucXMvhYnBKx9Ad2wz3JXgKjLMFay6DdjGb47/Uncommon-Underpants-men-black-MIC.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "UnCommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Underpants"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "15%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "15%"
+        }
+    ]
+}

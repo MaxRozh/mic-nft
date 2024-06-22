@@ -1,0 +1,33 @@
+{
+  "name": "Gray Underwear MIC #1607",
+  "description": "The most comfortable and fresh with our MIC logo.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmeRgYfbiN11ftwW2aJFshNDohCut4Dk9MyLQqi7mrv1t8/Mythical-Underwear-MIC-grey.png",
+  "content_url": "ipfs://ipfs/QmeRgYfbiN11ftwW2aJFshNDohCut4Dk9MyLQqi7mrv1t8/Mythical-Underwear-MIC-grey.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Underwear"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "margin",
+      "value": "20%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "20%"
+    }
+  ]
+}

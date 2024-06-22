@@ -1,0 +1,33 @@
+{
+    "name": "Top with ears Pink #1823",
+    "description": "Top with ears Microdiving Pink",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmPk8Pc3pXCVifbxEPZn2tV6P6vVGzeFr1zcijdHyUdkaz/Corset-Mow-pink.png",
+    "content_url": "ipfs://ipfs/ipfs/QmPk8Pc3pXCVifbxEPZn2tV6P6vVGzeFr1zcijdHyUdkaz/Corset-Mow-pink.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Material",
+            "value": "three-thread "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Top"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": " margin",
+            "value": "25%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "25%"
+        }
+    ]
+}

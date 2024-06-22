@@ -1,0 +1,37 @@
+{
+  "name": "Evening dress Ptah #1799",
+  "description": "Evening dress For the best moments with Ptah  ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmW3Gjxy9SDjzXDMYkXvFhvTHXJAA6noMpwfTrrzEmCbdq/Evening-white-Ptah.png",
+  "content_url": "ipfs://ipfs/ipfs/QmW3Gjxy9SDjzXDMYkXvFhvTHXJAA6noMpwfTrrzEmCbdq/Evening-white-Ptah.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "silk "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Dress"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

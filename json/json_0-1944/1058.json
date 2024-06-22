@@ -1,0 +1,33 @@
+{
+    "name": "Sleeveless hoodie  #1910",
+    "description": "Sleeveless hoodie White ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmaggRWE12vG5kDNAKRfHM5pbtTD7jkuuQBDAk7mVCFPqk/Immortal-Hoodie-white.png",
+    "content_url": "ipfs://ipfs/ipfs/QmaggRWE12vG5kDNAKRfHM5pbtTD7jkuuQBDAk7mVCFPqk/Immortal-Hoodie-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Imortal"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": " margin",
+            "value": "30%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "30%"
+        }
+    ]
+}

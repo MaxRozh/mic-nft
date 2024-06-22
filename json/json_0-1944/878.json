@@ -1,0 +1,37 @@
+{
+  "name": "Streat wear FlappyDonut  #234",
+  "description": "Best oversized T-shirt Hello from FlappyDonut.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmaTuKzuxBtV8TjfEsgcqjfzf3S7FZo4MdF5sfakH1AsoY/Common-Flappy-Donut.png",
+  "content_url": "ipfs://QmaTuKzuxBtV8TjfEsgcqjfzf3S7FZo4MdF5sfakH1AsoY/Common-Flappy-Donut.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Three-thread "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "margin",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Ambassador  margin",
+      "value": "10%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "10%"
+    }
+  ]
+}

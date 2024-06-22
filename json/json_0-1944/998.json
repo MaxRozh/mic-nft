@@ -1,0 +1,37 @@
+{
+  "name": "Taxi driver's cap #1936",
+  "description": "A taxi driver's cap gives you great privileges in the world of BaZoom  ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmZDa9vbUZ1GFXBUVuREq7yQqE8ezxFFKV4aYiqP4ryE6G/1.png",
+  "content_url": "ipfs://ipfs/ipfs/QmZDa9vbUZ1GFXBUVuREq7yQqE8ezxFFKV4aYiqP4ryE6G/1.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Arcane"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "40%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "20%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "20%"
+    }
+  ]
+}

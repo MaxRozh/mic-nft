@@ -1,0 +1,33 @@
+{
+    "name": "Dress shirt Graphite  #1209",
+    "description": "I think everyone should have a classic Graphite shirt.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/Qmf2ZcMCqr3zbgD9famuUi4yW8tdnnBJTvKnCGroCj5PJR/Uncommon-Shirt-Graphite.png",
+    "content_url": "ipfs://ipfs/Qmf2ZcMCqr3zbgD9famuUi4yW8tdnnBJTvKnCGroCj5PJR/Uncommon-Shirt-Graphite-1.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "uncommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Graphite"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Street Wear Long Leonidas    #1061",
+  "description": "We are responsible for those we have tamed; every unit of product sold will be transferred to the animal welfare fund.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmS6W8nazsJDTtUBoe51zeBuQtPoh9eLcLYY8Eo4GckpYh/Uncommon-cat.png",
+  "content_url": "ipfs://ipfs/QmS6W8nazsJDTtUBoe51zeBuQtPoh9eLcLYY8Eo4GckpYh/Uncommon-cat.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "UnCommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Fabric loop "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Helping animal shelters",
+      "value": "70%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

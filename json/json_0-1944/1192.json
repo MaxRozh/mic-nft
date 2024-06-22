@@ -1,0 +1,33 @@
+{
+    "name": "Top No Bra Whit  #750",
+    "description": "Don't like Bra? Show your protest .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmSuBn3ehNr9sFraxhEtFVPDyvANMKYw2tQBX4eorU4jVo/Top-NoBra-white.png",
+    "content_url": "ipfs://ipfs/QmSuBn3ehNr9sFraxhEtFVPDyvANMKYw2tQBX4eorU4jVo/Top-NoBra-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Top"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

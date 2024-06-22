@@ -1,0 +1,37 @@
+{
+  "name": "Underwear HYDRA  #802",
+  "description": "What could be better than your favorite hydra? That's right Panties with HYDRA .",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmXgAbvDvn2aSz7wwUZaYm9ANpui78zfWwrLkGpBAQAJwL/Uncommon-Underpants-men-black-Hydra.png",
+  "content_url": "ipfs://ipfs/QmXgAbvDvn2aSz7wwUZaYm9ANpui78zfWwrLkGpBAQAJwL/Uncommon-Underpants-men-black-Hydra.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "UnCommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Underpants"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

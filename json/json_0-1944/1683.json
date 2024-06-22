@@ -1,0 +1,33 @@
+{
+    "name": "Black lace bra #1927",
+    "description": "Black lace bra refinement in detail ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmXy3R5bUfufoqgiZzyZvTyboJZ8eBpkys9PHXRVWTE6dj/Immortal-Bra-black.png",
+    "content_url": "ipfs://ipfs/ipfs/QmXy3R5bUfufoqgiZzyZvTyboJZ8eBpkys9PHXRVWTE6dj/Immortal-Bra-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Imortal"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Bra"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": " margin",
+            "value": "30%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "30%"
+        }
+    ]
+}

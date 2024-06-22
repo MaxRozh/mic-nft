@@ -1,0 +1,33 @@
+{
+  "name": "White Bra  #1261",
+  "description": "Well, how can you pass by such beauty?.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmWuudsz9qMvBzFbqtUdrHXpYRkuCinQyrQ4NkAEjrKjkn/Uncommon-Bra-White-MIC.png",
+  "content_url": "ipfs://ipfs/QmWuudsz9qMvBzFbqtUdrHXpYRkuCinQyrQ4NkAEjrKjkn/Uncommon-Bra-White-MIC-1.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bra"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "margin",
+      "value": "10%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "10%"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Street Wear Long Blue    #1065",
+    "description": "Oversize Street Style Long Loop T-Shirt.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmV29Ui3e1TXdoDQ7z1p8po1Sie76UzNLKdhBN1J4VBuPV/Uncommon-blue.png",
+    "content_url": "ipfs://ipfs/QmV29Ui3e1TXdoDQ7z1p8po1Sie76UzNLKdhBN1J4VBuPV/Uncommon-blue.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "UnCommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Fabric loop "
+        },
+        {
+            "trait_type": "Type",
+            "value": "T-shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "SHirt White #1685",
+    "description": "Classic white long ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmVN6919eKJppnZQtuMFDZsRkk5CDCKRe5tRBbAYaMypN7/Mythical-shirt-white.png",
+    "content_url": "ipfs://ipfs/ipfs/QmVN6919eKJppnZQtuMFDZsRkk5CDCKRe5tRBbAYaMypN7/Mythical-shirt-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Mythical"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Long"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "20%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "20%"
+        }
+    ]
+}

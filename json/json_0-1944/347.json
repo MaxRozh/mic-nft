@@ -1,0 +1,37 @@
+{
+  "name": "Outfit jacketHYDRA #1907",
+  "description": "Outfit jacket of a real holder HYDRA ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmbqzKcvRQ81ZrS2JGRGhrJR7weabBaNFktTsupEfjUTcn/Hydra-outfit-top.png",
+  "content_url": "ipfs://ipfs/ipfs/QmbqzKcvRQ81ZrS2JGRGhrJR7weabBaNFktTsupEfjUTcn/Hydra-outfit-top.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Carbon "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

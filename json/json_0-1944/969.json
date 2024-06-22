@@ -1,0 +1,37 @@
+{
+  "name": "ScamScore top #1932",
+  "description": "Hoodie top from Scam Score ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmXruVDVDL7ubV84fzNy2A46CpDAykWzkmkNeCbxCV4X3j/Scam-top.png",
+  "content_url": "ipfs://ipfs/ipfs/QmXruVDVDL7ubV84fzNy2A46CpDAykWzkmkNeCbxCV4X3j/Scam-top.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Top"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

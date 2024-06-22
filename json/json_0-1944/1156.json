@@ -1,0 +1,37 @@
+{
+  "name": "Streat wear Ptah  #230",
+  "description": "Best oversized T-shirt Hello from Ptah.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmeMMrVWyE4PNYqnLQqVNHXcSYKW1ZMSngq7fakfVgvopF/Копия%20Common-Ptah.png",
+  "content_url": "ipfs://QmeMMrVWyE4PNYqnLQqVNHXcSYKW1ZMSngq7fakfVgvopF/Копия%20Common-Ptah.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Three-thread "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "margin",
+      "value": "10%"
+    },
+    {
+      "trait_type": "Ambassador  margin",
+      "value": "10%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "10%"
+    }
+  ]
+}

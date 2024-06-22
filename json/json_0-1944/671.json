@@ -1,0 +1,37 @@
+{
+  "name": "Raincoat Hey-D #1848",
+  "description": "Raincoat with accessories from Hey-D",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmbnpdDweogAayHxEQhLwHroefkWRZf5dvKz9LTGwgj8MZ/Geek-outfit-top-1.png",
+  "content_url": "ipfs://ipfs/ipfs/QmbnpdDweogAayHxEQhLwHroefkWRZf5dvKz9LTGwgj8MZ/geek-outfit-top.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "ECO "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Raincoat"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

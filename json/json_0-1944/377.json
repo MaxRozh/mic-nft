@@ -1,0 +1,33 @@
+{
+    "name": "Mini short Black  #409",
+    "description": "Our best mini shorts made from the best fabric ever Microdiving.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/Qmat2eJLm2igv2Ey5i9tGbzejX89Sz1eUA9e4p8xxDB2ji/Mini-shorts_Black.png",
+    "content_url": "ipfs://Qmat2eJLm2igv2Ey5i9tGbzejX89Sz1eUA9e4p8xxDB2ji/Mini-shorts-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

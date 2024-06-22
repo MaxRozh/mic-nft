@@ -1,0 +1,33 @@
+{
+  "name": "Street Style White T-Shirt   #934",
+  "description": "Oversize Street Style Long Loop T-Shirt White .",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmXiidvqNWCNsbESWxcQBshu68PoJukww3QJBfnWQyWMuo/Uncomon-Tank-top-white.png",
+  "content_url": "ipfs://ipfs/QmXiidvqNWCNsbESWxcQBshu68PoJukww3QJBfnWQyWMuo/Uncomon-Tank-top-white-1.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "UnCommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "margin",
+      "value": "10%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "10%"
+    }
+  ]
+}

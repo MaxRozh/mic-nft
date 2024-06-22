@@ -1,0 +1,33 @@
+{
+    "name": "Basic Hoodie Blue #1517",
+    "description": "Convenient Hudos from MIC.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmaUHe97cgd9CuG7GMHrDEWp7MPq4PrFtFr59AsCrG37d8/Clones%20Blue/Hoodie-Blue.png",
+    "content_url": "ipfs://ipfs/QmaUHe97cgd9CuG7GMHrDEWp7MPq4PrFtFr59AsCrG37d8/Clones%20Blue/Hoodie-Blue(1).mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "margin",
+            "value": "15%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "15%"
+        }
+    ]
+}

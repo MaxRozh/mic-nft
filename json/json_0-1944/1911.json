@@ -1,0 +1,37 @@
+{
+  "name": "Tank Top HYDRA  #37",
+  "description": "Basic black top with Hydra logo.",
+  "content_type": "video/mp4",
+  "image": "ipfs://QmVuoc5VbC8hZaVrPub4GLLCQNLB9NU8DVBq8d4ksuLPY8/Tank-top-women-Hydra-1.png",
+  "content_url": "ipfs://QmVuoc5VbC8hZaVrPub4GLLCQNLB9NU8DVBq8d4ksuLPY8/Tank-top-women-Hydra-1.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Top"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "5%"
+    },
+    {
+      "trait_type": "margin",
+      "value": "5%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "5%"
+    }
+  ]
+}

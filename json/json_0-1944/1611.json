@@ -1,0 +1,37 @@
+{
+  "name": "Street Wear Long MAGAZ    #1108",
+  "description": "Well, it’s really convenient and I’m here about clothes and MAGAZ.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmaADGSyDGbxpdRUxQ4TaBxkyskgg8YQ3UFKdJHKE1qv4A/Uncommon-hydra.png",
+  "content_url": "ipfs://ipfs/QmaADGSyDGbxpdRUxQ4TaBxkyskgg8YQ3UFKdJHKE1qv4A/Uncommon-hydra.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "UnCommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Fabric loop "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

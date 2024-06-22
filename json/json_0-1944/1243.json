@@ -1,0 +1,33 @@
+{
+    "name": "Street Wear Long Graphite  #1053",
+    "description": "Oversize Street Style Long Loop T-Shirt.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmQhFdx5MhAK7gE1zHdsMUiKxyBXm2ELJ5vQk8hLRKeZ74/Uncommon-graphite.png",
+    "content_url": "ipfs://ipfs/QmQhFdx5MhAK7gE1zHdsMUiKxyBXm2ELJ5vQk8hLRKeZ74/Uncommon-graphite.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "UnCommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Fabric loop "
+        },
+        {
+            "trait_type": "Type",
+            "value": "T-shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Graphite"
+        },
+        {
+            "trait_type": "margin",
+            "value": "15%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "15%"
+        }
+    ]
+}

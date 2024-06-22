@@ -1,0 +1,37 @@
+{
+  "name": "Underwear Club100  #803",
+  "description": "A real detective must have a fresh head and fresh underpants, so we have the latter for you Club100 .",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmeGDgns5Ybiu87EsKxWtfTsEyTD6Exq3Wr6p6X77YznV8/Uncommon-Underpants-men-black-CLUB100.png",
+  "content_url": "ipfs://ipfs/QmeGDgns5Ybiu87EsKxWtfTsEyTD6Exq3Wr6p6X77YznV8/Uncommon-Underpants-men-black-CLUB100.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "UnCommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Underpants"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambasador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

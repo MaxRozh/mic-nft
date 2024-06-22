@@ -1,0 +1,33 @@
+{
+  "name": "StratWear ATL #1753",
+  "description": "Serpentine Old School New School",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmQkPBuKReYTEpT9ZeKY9gT9oDMAhvKr9ZxjQCn6H8NmKd/Legendary-Street-wear-Faces.png",
+  "content_url": "ipfs://ipfs/ipfs/QmQkPBuKReYTEpT9ZeKY9gT9oDMAhvKr9ZxjQCn6H8NmKd/Legendary-Street-wear-Faces.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

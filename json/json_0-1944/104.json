@@ -1,0 +1,33 @@
+{
+  "name": "Underwear Grey  #842",
+  "description": "Comfortable, stylish, and just fres .",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmVUPE8Bpgfc3F83n7h3fBvpRp2Hp7f5GPJ15eJpRWbhkq/Uncommon-Underpants-men-grey.png",
+  "content_url": "ipfs://ipfs/QmVUPE8Bpgfc3F83n7h3fBvpRp2Hp7f5GPJ15eJpRWbhkq/Uncommon-Underpants-men-grey.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "UnCommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Underpants"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "margin",
+      "value": "10%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "10%"
+    }
+  ]
+}

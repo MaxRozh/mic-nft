@@ -1,0 +1,33 @@
+{
+    "name": "Black Leggins  #656",
+    "description": "Basic Blue leggings that perfectly highlight your figure .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmXjVyXWezBt6PzN267NFNYyqNTJeb35mijqGxsxHu9oWk/Leggings-basic_Blue.png",
+    "content_url": "ipfs://ipfs/QmXjVyXWezBt6PzN267NFNYyqNTJeb35mijqGxsxHu9oWk/Leggings-basic-blue.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Leggins"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

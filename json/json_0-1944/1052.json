@@ -1,0 +1,33 @@
+{
+    "name": "Streat wear Black  #191",
+    "description": "Best oversized T-shirt.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmS9aoQGrHhEUoa8nbxCpiNXy42S9tdmrFSQtcnQT6MB5o/Common-black.png",
+    "content_url": "ipfs://QmS9aoQGrHhEUoa8nbxCpiNXy42S9tdmrFSQtcnQT6MB5o/Common-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Three-thread "
+        },
+        {
+            "trait_type": "Type",
+            "value": "T-Shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

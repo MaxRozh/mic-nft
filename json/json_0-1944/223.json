@@ -1,0 +1,33 @@
+{
+    "name": "Black Primal Hoodie#1748",
+    "description": "Black Primal Hoodie What's in your pockets?",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmbyYeSyLZby4DTm3Yh5KJwithfQaeX4fUUiKtXTP4ZRU3/Mythical-Hoodie-black.png",
+    "content_url": "ipfs://ipfs/ipfs/QmbyYeSyLZby4DTm3Yh5KJwithfQaeX4fUUiKtXTP4ZRU3/Mythical-Hoodie-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Mythical"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Hoodie"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": " margin",
+            "value": "20%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "20%"
+        }
+    ]
+}

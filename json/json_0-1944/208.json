@@ -1,0 +1,33 @@
+{
+    "name": "Tank Top Black #143",
+    "description": "Basic Black men's sleeveless vest in oversized style.",
+    "content_type": "video/mp4",
+    "image": "ipfs://QmeXYEJHy75igCdKNeRmyNkMc5cjiicajGy2ysQUFYPeKX/Common-tank-top-black.png",
+    "content_url": "ipfs://QmeXYEJHy75igCdKNeRmyNkMc5cjiicajGy2ysQUFYPeKX/Common-tank-top-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "T-Shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

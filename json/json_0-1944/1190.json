@@ -1,0 +1,33 @@
+{
+  "name": "Gachi set #1940",
+  "description": "Our founder's favorite kit, it provides unique features  ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmW2yLDPokrC4xgBJme6xnFkgva4tp5uGquzPHZ1s1rbaM/2.png",
+  "content_url": "ipfs://ipfs/ipfs/QmW2yLDPokrC4xgBJme6xnFkgva4tp5uGquzPHZ1s1rbaM/2.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Arcane"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "set"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "40%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "20%"
+    }
+  ]
+}

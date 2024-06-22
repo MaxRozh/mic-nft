@@ -1,0 +1,33 @@
+{
+    "name": "cargo pants with MIC #1692",
+    "description": "Stylish cargo pants with MIC marking",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/Qmc7PzLRLBgpdpR5DLKQjunjWVMBDf8PyeUGoHp3pLBZwQ/Mythical-pants.png",
+    "content_url": "ipfs://ipfs/ipfs/Qmc7PzLRLBgpdpR5DLKQjunjWVMBDf8PyeUGoHp3pLBZwQ/Mythical-pants.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Mythical"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Pants"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "20%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "20%"
+        }
+    ]
+}

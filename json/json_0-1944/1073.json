@@ -1,0 +1,33 @@
+{
+    "name": "Shorts Black  #492",
+    "description": "Classic men's shorts .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmTqo5DUL4RTkuij7k521XSqkBjt53CaW3n88Z2vtygEhv/Men%20shorts-black.png",
+    "content_url": "ipfs://QmTqo5DUL4RTkuij7k521XSqkBjt53CaW3n88Z2vtygEhv/Men%20shorts-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Stretchy cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

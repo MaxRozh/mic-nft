@@ -1,0 +1,33 @@
+{
+    "name": "Short military gray #1771",
+    "description": "Short military gray collor",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmXRZq4tJuTwsZVGZLSVxAV4n455Sn4mrWYk1M9QnvqW4W/Shorts-military-grey.png",
+    "content_url": "ipfs://ipfs/ipfs/QmXRZq4tJuTwsZVGZLSVxAV4n455Sn4mrWYk1M9QnvqW4W/Shorts-military-grey.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Jeans "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Short"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Gray"
+        },
+        {
+            "trait_type": " margin",
+            "value": "25%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "25%"
+        }
+    ]
+}

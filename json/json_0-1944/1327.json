@@ -1,0 +1,37 @@
+{
+  "name": "Street Wear Long FlappyDonut    #1110",
+  "description": "Everyone loves donuts and so do we.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmNjioKvUA5JnKuDngZLhkKfMVEgdtWrNtopPcjaFKPAYp/Uncommon-flappy-donut.png",
+  "content_url": "ipfs://ipfs/QmNjioKvUA5JnKuDngZLhkKfMVEgdtWrNtopPcjaFKPAYp/Uncommon-flappy-donut.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "UnCommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Fabric loop "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

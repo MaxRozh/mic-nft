@@ -1,0 +1,33 @@
+{
+  "name": "PINK dress shirt #1757",
+  "description": "PINK classic shirt pink is the hit of the season",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmVo2gpxSHMxXhecTMDpzWPqPCJF4pf6HQqgbjHcHvrwLB/Shirt-Barboskin-men-pink.png",
+  "content_url": "ipfs://ipfs/ipfs/QmVo2gpxSHMxXhecTMDpzWPqPCJF4pf6HQqgbjHcHvrwLB/Shirt-Barboskin-men-pink.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

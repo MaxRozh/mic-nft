@@ -1,0 +1,33 @@
+{
+  "name": "Black dress shirt #1765",
+  "description": "Black classic shirt pink is the hit of the season",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmaaKoacghZzmNo9oQYmSriMJceqxePWkQrYqCC39gBHQJ/Shirt-Barboskin-men-black.png",
+  "content_url": "ipfs://ipfs/ipfs/QmaaKoacghZzmNo9oQYmSriMJceqxePWkQrYqCC39gBHQJ/Shirt-Barboskin-men-black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "White Jecket  #1894",
+    "description": "White Jecket Structural fabric ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmP8z8VhcTfbQ3Xe8F92Te6nksyWQnY91Tgx5aHJ4cnMwa/Jacket2-white.png",
+    "content_url": "ipfs://ipfs/ipfs/QmQEM52mTF2EDzMFxar713rcuEmyuxDErY6D1ViAyK5v4Z/Immortal-Pants-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Imortal"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Jacket"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": " margin",
+            "value": "30%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "30%"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "StratWear ATL #1756",
+  "description": "I took a drag and felt better. Bort youth 89",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmP4Yb3NyyGRFy4n9MHoFSvXy2mDAyJ68mw65A6EBWfZGz/Legendary-Street-wear-ATL.png",
+  "content_url": "ipfs://ipfs/ipfs/QmP4Yb3NyyGRFy4n9MHoFSvXy2mDAyJ68mw65A6EBWfZGz/Legendary-Street-wear-ATL.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

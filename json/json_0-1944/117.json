@@ -1,0 +1,33 @@
+{
+    "name": "Vest unloading Black #1901",
+    "description": "Vest unloading Black its Trands ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmRf1CxJzSK7wZQQVbri9X2KER587muixihtqdypjcVWP8/Jacket1-black.png",
+    "content_url": "ipfs://ipfs/ipfs/QmRf1CxJzSK7wZQQVbri9X2KER587muixihtqdypjcVWP8/Jacket1-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Imortal"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Carbon "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Jacket"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": " margin",
+            "value": "30%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "30%"
+        }
+    ]
+}

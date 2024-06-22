@@ -1,0 +1,37 @@
+{
+  "name": "Ptah outffit punts #1933",
+  "description": "Ptah outffit punts for real birds ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmcrvNBZxM3Th4RfqG34URxSJGCTotpzHM2w6KTu22psb6/Ptah-outfit-W-bottom.png",
+  "content_url": "ipfs://ipfs/ipfs/QmcrvNBZxM3Th4RfqG34URxSJGCTotpzHM2w6KTu22psb6/Ptah-outfit-W-bottom.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Leggins"
+    },
+    {
+      "trait_type": "Color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

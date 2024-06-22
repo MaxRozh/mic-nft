@@ -1,0 +1,33 @@
+{
+    "name": "Crop Corset White #1809",
+    "description": "crop top with corset is just gorgeous",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmX13x1D2SQTTsxx8pRn9XeGKiBQo5nU2rtAV8a54S8tzW/Crop-Corset-white.png",
+    "content_url": "ipfs://ipfs/ipfs/QmX13x1D2SQTTsxx8pRn9XeGKiBQo5nU2rtAV8a54S8tzW/Crop-Corset-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Corset"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": " margin",
+            "value": "25%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "25%"
+        }
+    ]
+}

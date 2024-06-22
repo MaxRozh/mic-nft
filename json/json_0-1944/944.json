@@ -1,0 +1,33 @@
+{
+    "name": "CropTop Microdiving Black #1588",
+    "description": "CropTop 2in1 MIC.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmWKaJ7mJFvd8s58Mt6AMoJ6cSPj15dNi2UVCiwMUL3FMZ/Копия%20Crop%2Btop-whole.png",
+    "content_url": "ipfs://ipfs/QmWKaJ7mJFvd8s58Mt6AMoJ6cSPj15dNi2UVCiwMUL3FMZ/Копия%20Crop%2Btop-whole.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "CropTop"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "15%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "15%"
+        }
+    ]
+}

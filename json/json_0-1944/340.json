@@ -1,0 +1,33 @@
+{
+    "name": "Mini shorts MIC #1780",
+    "description": "Mini shorts MIC in Black color",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmPrqCBXgVXMrWQtidFdakcELmB3wtudtxUqXsk8irTTd6/Shorts-MIC-black.png",
+    "content_url": "ipfs://ipfs/ipfs/QmPrqCBXgVXMrWQtidFdakcELmB3wtudtxUqXsk8irTTd6/Shorts-MIC-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Jeans "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Short"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": " margin",
+            "value": "25%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "25%"
+        }
+    ]
+}

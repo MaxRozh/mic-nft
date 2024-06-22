@@ -1,0 +1,33 @@
+{
+    "name": "Mini skirt Black  #1169",
+    "description": "Black mini skirt type.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmZDL2Xurt168KpvAmty2H2rzRQRoGTBNkrFXXRk8LVVQu/Uncommon-Skirt-Black.png",
+    "content_url": "ipfs://ipfs/QmZDL2Xurt168KpvAmty2H2rzRQRoGTBNkrFXXRk8LVVQu/Uncommon-Skirt-Black_29.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "uncommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Skirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

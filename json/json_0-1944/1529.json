@@ -1,0 +1,37 @@
+{
+  "name": "Street Wear HeY-D? #1400",
+  "description": "Comfortable, beautiful, what else is boring Hey-D.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/Qmet7KnHY3uFVkeXW65xN7n84Cd46kB181pxPmHwJvrpjw/Rare-street-wear-white-Hey-D.png",
+  "content_url": "ipfs://ipfs/Qmet7KnHY3uFVkeXW65xN7n84Cd46kB181pxPmHwJvrpjw/Rare-street-wear-white-Hey-D-11.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

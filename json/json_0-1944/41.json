@@ -1,0 +1,33 @@
+{
+  "name": "Black Eco Bra #1840",
+  "description": "Black eco leather bra ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmTWbi4QHvxwreebmBXysEQgcJNXURKZmVSgMVjS6MGTRL/Legendary-Bra-black.png",
+  "content_url": "ipfs://ipfs/ipfs/QmTWbi4QHvxwreebmBXysEQgcJNXURKZmVSgMVjS6MGTRL/Legendary-Bra-black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Eco "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Bra"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

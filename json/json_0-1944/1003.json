@@ -1,0 +1,33 @@
+{
+  "name": "Geek panama Outffit #1931",
+  "description": "Panama with mask daimond hends ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmbYqucTQiVhDn455Z88PEo2CxExBAKkNqraAZpK99PsPb/geek-outfit-hat-1.png",
+  "content_url": "ipfs://ipfs/ipfs/QmbYqucTQiVhDn455Z88PEo2CxExBAKkNqraAZpK99PsPb/geek-outfit-hat-1.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Musk"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

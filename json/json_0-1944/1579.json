@@ -1,0 +1,33 @@
+{
+    "name": "Black Thong #1394",
+    "description": "The best Thongs for a Lady and remember Microdiving.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/Qmc4H5ZTd2vC4aFsw9geGjFsjobp29vx1Atgi8hc75fTc5/Thong-black.png",
+    "content_url": "ipfs://ipfs/Qmc4H5ZTd2vC4aFsw9geGjFsjobp29vx1Atgi8hc75fTc5/Thong-black-1.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Thong"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "15%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "15%"
+        }
+    ]
+}

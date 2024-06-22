@@ -1,0 +1,33 @@
+{
+    "name": "Streat wear White  #170",
+    "description": "Oversized T-shirt made from the best loop.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmPwUkdheDTg4E2Wf8AqVRiUrSWkAwCuaUoZ8WoPcXFrdx/Common-white.png",
+    "content_url": "ipfs://QmPwUkdheDTg4E2Wf8AqVRiUrSWkAwCuaUoZ8WoPcXFrdx/Common-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Three-thread "
+        },
+        {
+            "trait_type": "Type",
+            "value": "T-Shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

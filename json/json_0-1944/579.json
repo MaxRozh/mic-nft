@@ -1,0 +1,33 @@
+{
+    "name": "Classic Shirt White #1787",
+    "description": "Classic Shirt White",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmP7G77bCED9idi1Bkbj5US55EXUN3dt4SfkwuEi8WfG5Z/Shirt-Barboskin-W-white.png",
+    "content_url": "ipfs://ipfs/ipfs/QmP7G77bCED9idi1Bkbj5US55EXUN3dt4SfkwuEi8WfG5Z/Shirt-Barboskin-W-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": " margin",
+            "value": "25%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "25%"
+        }
+    ]
+}

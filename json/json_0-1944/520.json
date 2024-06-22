@@ -1,0 +1,37 @@
+{
+  "name": "Oversaiz StreatWear HYDRA #1651",
+  "description": "Oversaiz StreatWear in HYDRA Logo ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/Qmc1XFV3m8xfGA3QCDWHapau7o3zDmYrnNd7zFxM8Kt9H9/Mythical-StreetWear-black-Hydra.png",
+  "content_url": "ipfs://ipfs/ipfs/Qmc1XFV3m8xfGA3QCDWHapau7o3zDmYrnNd7zFxM8Kt9H9/Mythical-StreetWear-black-Hydra.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Mythical"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "margin",
+      "value": "20%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "20%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "20%"
+    }
+  ]
+}

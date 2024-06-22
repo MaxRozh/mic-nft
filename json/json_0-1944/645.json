@@ -1,0 +1,37 @@
+{
+  "name": "Sports trousers Black Ptah  #1232",
+  "description": "Sweatpants that are easy to wear both at home and on the street and even give perks Ptah.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmdsRwaN47shv7WSrU7Qc84WxnMuugf8V3ZDXCKqtCCxwf/Ptah-Sport-Black.png",
+  "content_url": "ipfs://ipfs/QmdsRwaN47shv7WSrU7Qc84WxnMuugf8V3ZDXCKqtCCxwf/Ptah-Sport-Black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Sports trousers"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassadors  margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

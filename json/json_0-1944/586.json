@@ -1,0 +1,37 @@
+{
+  "name": "Special skirt  #1938",
+  "description": "The special skirt is not simple, it gives access to management in the company and access to the archive of our model  ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmQeofd2vuTai9pKxQaAxun4vYmHP22rfVwUNfjdh3owQo/2.png",
+  "content_url": "ipfs://ipfs/ipfs/QmQeofd2vuTai9pKxQaAxun4vYmHP22rfVwUNfjdh3owQo/2.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Arcane"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Skirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "40%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "20%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "20%"
+    }
+  ]
+}

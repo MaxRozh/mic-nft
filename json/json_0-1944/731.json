@@ -1,0 +1,37 @@
+{
+  "name": "Underwear Scam  #801",
+  "description": "Comfortable, stylish, and just fresh .",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmTw76Ahzv19nK9TZ1o29wBD7sombaU8P8aMKgihLMF7Kz/Uncommon-Underpants-men-red-SCAM.png",
+  "content_url": "ipfs://ipfs/QmTw76Ahzv19nK9TZ1o29wBD7sombaU8P8aMKgihLMF7Kz/Uncommon-Underpants-men-red-SCAM.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "UnCommon"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Underpants"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

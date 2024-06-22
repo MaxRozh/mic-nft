@@ -1,0 +1,37 @@
+{
+  "name": "HYDRA men's briefs #1343",
+  "description": "Men's briefs, light, fresh, everything as it should be Feel confident with Hydra.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmYoB44cdBZq8rQ6tMtZQXk3TupRdigzwo3FroKX39uSpo/Rare-Underwear-black-Hydra.png",
+  "content_url": "ipfs://ipfs/QmYoB44cdBZq8rQ6tMtZQXk3TupRdigzwo3FroKX39uSpo/Rare-Underwear-black-Hydra.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "underwear"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

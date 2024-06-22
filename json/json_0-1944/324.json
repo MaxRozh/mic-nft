@@ -1,0 +1,37 @@
+{
+  "name": "Jacket for a real scammer #1937",
+  "description": "A jacket for a real scammer, maybe there is something in every pocket?  ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmQPxmT3UNK9ukPxzbe7qXJojLRxHb3HZZpgvaXhZfyfYV/1.png",
+  "content_url": "ipfs://ipfs/ipfs/QmQPxmT3UNK9ukPxzbe7qXJojLRxHb3HZZpgvaXhZfyfYV/1.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Arcane"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Jacket"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": " margin",
+      "value": "40%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "20%"
+    }
+  ]
+}

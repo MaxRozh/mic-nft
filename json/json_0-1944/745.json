@@ -1,0 +1,33 @@
+{
+    "name": "Black men's briefs  #1359",
+    "description": "Men's briefs, light, fresh, everything as it should be.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmQmrAJJbhoaZotPZi5zfkaVA8Vy65HWCF2SKHGu34Ug7c/Rare-Underwear-black.png",
+    "content_url": "ipfs://ipfs/QmQmrAJJbhoaZotPZi5zfkaVA8Vy65HWCF2SKHGu34Ug7c/Rare-Underwear-black-1.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "underwear"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "15%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "15%"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Mini short White  #402",
+    "description": "Our best mini shorts made from the best fabric ever Microdiving.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmdZxJzuYadUy2Z5KoyL5Zug77uY18zRw2rVNF6imLiwqP/Mini-shorts_White.png",
+    "content_url": "ipfs://QmdZxJzuYadUy2Z5KoyL5Zug77uY18zRw2rVNF6imLiwqP/Mini-shorts-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Shorts"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

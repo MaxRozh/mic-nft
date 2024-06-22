@@ -1,0 +1,37 @@
+{
+  "name": "Denim overalls Hey-D Black #1921",
+  "description": "Denim overalls from Hey-D Black ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmaqoVSbfQgPuAx2qfM6ZubAHehNnMWCjJzg17zb6Dx5ej/Immortal-HeyD-black.png",
+  "content_url": "ipfs://ipfs/ipfs/QmaqoVSbfQgPuAx2qfM6ZubAHehNnMWCjJzg17zb6Dx5ej/Immortal-HeyD-black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "overalls"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

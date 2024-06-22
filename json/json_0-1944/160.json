@@ -1,0 +1,33 @@
+{
+    "name": "Black Leggins  #678",
+    "description": "Basic black leggings that perfectly highlight your figure .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmUJ1F2a7VbZGR2PpDQ3V5Yq7gdKtpo2XLhtfFW13QEdHe/Leggings-basic_Black.png",
+    "content_url": "ipfs://ipfs/QmUJ1F2a7VbZGR2PpDQ3V5Yq7gdKtpo2XLhtfFW13QEdHe/Leggings-basic-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Leggins"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

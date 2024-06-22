@@ -1,0 +1,33 @@
+{
+  "name": "Wiserman jacket #1935",
+  "description": "Yes, there are not as many pockets as his, but in every pocket there is equipment for the workshop  ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmaZN7V5jo4yJUnnRK41CyzdGza7wcX2atmkvNAvjwi4u8/1.png",
+  "content_url": "ipfs://ipfs/ipfs/QmaZN7V5jo4yJUnnRK41CyzdGza7wcX2atmkvNAvjwi4u8/1.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Arcane"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "jacket"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "40%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "40%"
+    }
+  ]
+}

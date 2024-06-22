@@ -1,0 +1,33 @@
+{
+    "name": "Sweatpants from Gray #1885",
+    "description": "Sweatpants from Gray ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmWDLn8LKZbbfHrLC81hzcKNEmU66ErvRUDYqYwciFr9qn/Immortal-Pants-grey.png",
+    "content_url": "ipfs://ipfs/ipfs/QmWDLn8LKZbbfHrLC81hzcKNEmU66ErvRUDYqYwciFr9qn/Immortal-Pants-grey.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Imortal"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Punts"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Gray"
+        },
+        {
+            "trait_type": " margin",
+            "value": "30%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "30%"
+        }
+    ]
+}

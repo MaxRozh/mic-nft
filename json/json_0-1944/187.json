@@ -1,0 +1,33 @@
+{
+    "name": "White lace bra #1924",
+    "description": "White lace bra refinement in detail ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmYkMgE5HEYMY4xdYBXMojz6TXndqFJmFXDB9AakHMDbKk/Immortal-Bra-white.png",
+    "content_url": "ipfs://ipfs/ipfs/QmYkMgE5HEYMY4xdYBXMojz6TXndqFJmFXDB9AakHMDbKk/Immortal-Bra-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Imortal"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Bra"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": " margin",
+            "value": "30%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "30%"
+        }
+    ]
+}

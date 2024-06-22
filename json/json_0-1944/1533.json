@@ -1,0 +1,33 @@
+{
+    "name": "Tank Top Black  #41",
+    "description": "Basic black top .",
+    "content_type": "video/mp4",
+    "image": "ipfs://QmTpcsPCz3LweK6AcHjm7GmhXzX3CbaRuLcoWeWTkNengK/Tank-top-women-black.png",
+    "content_url": "ipfs://QmTpcsPCz3LweK6AcHjm7GmhXzX3CbaRuLcoWeWTkNengK/Tank-top-women-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Top"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

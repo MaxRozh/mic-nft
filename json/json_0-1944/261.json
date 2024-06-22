@@ -1,0 +1,33 @@
+{
+  "name": "Shirt mini Mocco #1466",
+  "description": "Strict classic skirt Office or just going out?.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/Qmb2EtHK5Mfd9JZwvxpL5NQbsHLtDv1Gqhk4ACB94DCpRt/Rare-skirt-mini-mocco.png",
+  "content_url": "ipfs://ipfs/Qmb2EtHK5Mfd9JZwvxpL5NQbsHLtDv1Gqhk4ACB94DCpRt/Rare-skirt-mini-mocco.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Mocco"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

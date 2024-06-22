@@ -1,0 +1,33 @@
+{
+    "name": "Mini skirt School  #1141",
+    "description": "White mini skirt school type.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/Qma1zxufjswzEfo1YFGQpYN7BZYrqNY4e33G6u78EuCLCA/Uncommon-Skirt-School.png",
+    "content_url": "ipfs://ipfs/Qma1zxufjswzEfo1YFGQpYN7BZYrqNY4e33G6u78EuCLCA/Uncommon-Skirt-Schoo-17.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "uncommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Skirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Red"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

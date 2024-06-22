@@ -1,0 +1,33 @@
+{
+    "name": "School Skirt Blue #1670",
+    "description": "School Skirt in Blue collor  ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmTBHTggVpdP68EM7GETWCwceQwKBaThPLoSNKUeRZcReP/Mythical-Skirt-blue.png",
+    "content_url": "ipfs://ipfs/ipfs/QmTBHTggVpdP68EM7GETWCwceQwKBaThPLoSNKUeRZcReP/Mythical-Skirt-blue.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Mythical"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Skiirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "margin",
+            "value": "20%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "20%"
+        }
+    ]
+}

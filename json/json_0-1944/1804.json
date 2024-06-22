@@ -1,0 +1,37 @@
+{
+  "name": "Street Wear ALAN #1401",
+  "description": "Secret conspiracies who is he? Our market maker? or the owner of TON? I don’t know, but he’s definitely handsome.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/Qmb6BmhYqAq9NHK12goyM9HxRShYbHWsf4AXUiAiNtxB44/Rare-street-wear-white-Duck.png",
+  "content_url": "ipfs://ipfs/Qmb6BmhYqAq9NHK12goyM9HxRShYbHWsf4AXUiAiNtxB44/Rare-street-wear-white-Duck.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "T-Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

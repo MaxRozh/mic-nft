@@ -1,0 +1,37 @@
+{
+  "name": "Legendary costume from IRISKA #1845",
+  "description": "The legendary costume from Iriska is simply amazing ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmY53uqVd53mvS5BbzhkxSFf1oVBuPAuuX9GP8DZm5TMrR/Irishka.png",
+  "content_url": "ipfs://ipfs/ipfs/QmY53uqVd53mvS5BbzhkxSFf1oVBuPAuuX9GP8DZm5TMrR/Irishka.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "CosumeLo "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Costume"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "5%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

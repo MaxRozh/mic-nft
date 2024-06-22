@@ -1,0 +1,33 @@
+{
+    "name": "Street Wear Long Black    #1086",
+    "description": "Oversize Street Style Long Loop T-Shirt.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmQJhqjEgiRzfiXPUuAs1Lmd4A75czdDne9LqSFmGFbEQ8/Uncommon-black.png",
+    "content_url": "ipfs://ipfs/QmQJhqjEgiRzfiXPUuAs1Lmd4A75czdDne9LqSFmGFbEQ8/Uncommon-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "UnCommon"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Fabric loop "
+        },
+        {
+            "trait_type": "Type",
+            "value": "T-shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "10%"
+        }
+    ]
+}

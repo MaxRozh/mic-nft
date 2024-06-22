@@ -1,0 +1,37 @@
+{
+    "name": "Top with ears Black #1827",
+    "description": "Top with ears Black ",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmNsNy8FVm5e9UTQg4EVEqcEErKMNgefNX4ay3bXeXfQk6/Corset-Mow-black.png",
+    "content_url": "ipfs://ipfs/ipfs/QmNsNy8FVm5e9UTQg4EVEqcEErKMNgefNX4ay3bXeXfQk6/Corset-Mow-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Material",
+            "value": "three-thread "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Top"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Ambassador margin",
+            "value": "25%"
+        },
+        {
+            "trait_type": " margin",
+            "value": "25%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "25%"
+        }
+    ]
+}

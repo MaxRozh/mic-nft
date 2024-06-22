@@ -1,0 +1,37 @@
+{
+  "name": "Legendary costume from Gachi #1846",
+  "description": "The legendary costume from Gachi is simply amazing ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/Qmdw1xSLvpWqab3YEFdmBfyqyLkSmh6syuiikXpW2tzS1r/Gachi-woman-black.png",
+  "content_url": "ipfs://ipfs/ipfs/Qmdw1xSLvpWqab3YEFdmBfyqyLkSmh6syuiikXpW2tzS1r/Gachi-woman-black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Eco "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Costume"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "5%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

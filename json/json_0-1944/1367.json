@@ -1,0 +1,33 @@
+{
+    "name": "TankTop White #1612",
+    "description": "Stylish and comfortable in the summer.",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmcZAZpFB2nRWZ1giEmomGhTzn4qtVdGxq4GrnkHnN8M7a/Mythical-TankTop-white.png",
+    "content_url": "ipfs://ipfs/ipfs/QmcZAZpFB2nRWZ1giEmomGhTzn4qtVdGxq4GrnkHnN8M7a/Mythical-TankTop-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Mythical"
+        },
+        {
+            "trait_type": "Material",
+            "value": " Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "T-Shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "20%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "20%"
+        }
+    ]
+}

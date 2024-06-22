@@ -1,0 +1,33 @@
+{
+    "name": "White Leggins  #522",
+    "description": "Basic white leggings that perfectly highlight your figure .",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmPUrckfhZEzAFPWdLTKLG53rKsN2aVu8e3tte6ARb6yqK/Leggings-basic_White.png",
+    "content_url": "ipfs://QmPUrckfhZEzAFPWdLTKLG53rKsN2aVu8e3tte6ARb6yqK/Leggings-basic-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Common"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Leggins"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": "margin",
+            "value": "5%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "5%"
+        }
+    ]
+}

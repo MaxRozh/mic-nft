@@ -1,0 +1,37 @@
+{
+  "name": "Basic Hoodie EvilZeus #1494",
+  "description": "Convenient Hudos from EvilZeus.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/EvilZeus%201494/Hoodie-Life-in-the-crypto.png",
+  "content_url": "ipfs://ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/EvilZeus%201494/Hoodie-Life-in-the-crypto.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

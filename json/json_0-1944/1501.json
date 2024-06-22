@@ -1,0 +1,33 @@
+{
+  "name": "Shirt with ruffles Black #1875",
+  "description": "Black Shirt with ruffles, Where is the set with ears?",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmeR5RbsGWjCrvm9CfnntaskhYGo7xpJMSaQSsMee6scze/Immortal-shirt-black.png",
+  "content_url": "ipfs://ipfs/ipfs/QmeR5RbsGWjCrvm9CfnntaskhYGo7xpJMSaQSsMee6scze/Immortal-shirt-black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Imortal"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Shirt"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": " margin",
+      "value": "30%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "30%"
+    }
+  ]
+}

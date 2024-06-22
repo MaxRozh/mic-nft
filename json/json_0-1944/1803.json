@@ -1,0 +1,37 @@
+{
+  "name": "Pullover Barboskin #1796",
+  "description": "We love the classics as much as we do Barboskin ",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmebrSNncsnbiJXpyTjdrzXXoFGpaVy2HssYbdBTSqTNgR/Pullover-Barboskin-black.png",
+  "content_url": "ipfs://ipfs/ipfs/QmebrSNncsnbiJXpyTjdrzXXoFGpaVy2HssYbdBTSqTNgR/Pullover-Barboskin-black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Pullover"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": " margin",
+      "value": "25%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "25%"
+    }
+  ]
+}

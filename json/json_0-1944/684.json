@@ -1,0 +1,33 @@
+{
+  "name": "Crop Microdiving Black #1583",
+  "description": "Branded crop top with our logo MIC.",
+  "content_type": "video/mp4",
+  "image": "ipfs://ipfs/QmQU6Hsqnt92miDhdrZZvc7kfquND1rMkEA1ZAhtJNmmqK/Crop-MIC-black.png",
+  "content_url": "ipfs://ipfs/QmQU6Hsqnt92miDhdrZZvc7kfquND1rMkEA1ZAhtJNmmqK/Crop-MIC-black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Material",
+      "value": " Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Crop"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "margin",
+      "value": "15%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "15%"
+    }
+  ]
+}

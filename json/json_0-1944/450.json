@@ -1,0 +1,33 @@
+{
+    "name": "Crop Corset Black #1811",
+    "description": "crop top with corset is just gorgeous",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmPPvR6XC8pWPww53vFg1A9ihLDFzWYY14tr2K847ad45d/Crop-Corset-black.png",
+    "content_url": "ipfs://ipfs/ipfs/QmPPvR6XC8pWPww53vFg1A9ihLDFzWYY14tr2K847ad45d/Crop-Corset-black.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Microdiving "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Corset"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Black"
+        },
+        {
+            "trait_type": " margin",
+            "value": "25%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "25%"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Shirt with flounce sleeve #1790",
+    "description": "Shirt with flounce sleeve White color",
+    "content_type": "video/mp4",
+    "image": "ipfs://ipfs/QmSzqsksywGrneMm4aPXUWckDaQnvZZuvxSVAHdaAfw31p/Legendary-shiet-white.png",
+    "content_url": "ipfs://ipfs/ipfs/QmSzqsksywGrneMm4aPXUWckDaQnvZZuvxSVAHdaAfw31p/Legendary-shiet-white.mp4",
+    "attributes": [
+        {
+            "trait_type": "Rarity ",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Material",
+            "value": "Cotton "
+        },
+        {
+            "trait_type": "Type",
+            "value": "Shirt"
+        },
+        {
+            "trait_type": "Color",
+            "value": "White"
+        },
+        {
+            "trait_type": " margin",
+            "value": "25%"
+        },
+        {
+            "trait_type": "tailoring margin",
+            "value": "25%"
+        }
+    ]
+}
