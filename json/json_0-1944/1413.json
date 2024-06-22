@@ -2,8 +2,8 @@
   "name": "TonRaid Hoodie#1749",
   "description": "Black Primal Hoodie TonRaid",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmbyYeSyLZby4DTm3Yh5KJwithfQaeX4fUUiKtXTP4ZRU3/Mythical-Hoodie-Ton-Raid.png",
-  "content_url": "ipfs://ipfs/ipfs/QmbyYeSyLZby4DTm3Yh5KJwithfQaeX4fUUiKtXTP4ZRU3/Mythical-Hoodie-Ton-Raid.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmbyYeSyLZby4DTm3Yh5KJwithfQaeX4fUUiKtXTP4ZRU3/Mythical-Hoodie-Ton-Raid.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmbyYeSyLZby4DTm3Yh5KJwithfQaeX4fUUiKtXTP4ZRU3/Mythical-Hoodie-Ton-Raid.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

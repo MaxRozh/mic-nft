@@ -2,8 +2,8 @@
     "name": "Streat wear White  #173",
     "description": "Oversized T-shirt made from the best loop.",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmPwUkdheDTg4E2Wf8AqVRiUrSWkAwCuaUoZ8WoPcXFrdx/Common-white.png",
-    "content_url": "ipfs://QmPwUkdheDTg4E2Wf8AqVRiUrSWkAwCuaUoZ8WoPcXFrdx/Common-white.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmPwUkdheDTg4E2Wf8AqVRiUrSWkAwCuaUoZ8WoPcXFrdx/Common-white.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmPwUkdheDTg4E2Wf8AqVRiUrSWkAwCuaUoZ8WoPcXFrdx/Common-white.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

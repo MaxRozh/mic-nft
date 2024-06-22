@@ -2,8 +2,8 @@
     "name": "White Jecket  #1893",
     "description": "White Jecket Structural fabric ",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmP8z8VhcTfbQ3Xe8F92Te6nksyWQnY91Tgx5aHJ4cnMwa/Jacket2-white.png",
-    "content_url": "ipfs://ipfs/ipfs/QmQEM52mTF2EDzMFxar713rcuEmyuxDErY6D1ViAyK5v4Z/Immortal-Pants-black.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmP8z8VhcTfbQ3Xe8F92Te6nksyWQnY91Tgx5aHJ4cnMwa/Jacket2-white.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmQEM52mTF2EDzMFxar713rcuEmyuxDErY6D1ViAyK5v4Z/Immortal-Pants-black.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

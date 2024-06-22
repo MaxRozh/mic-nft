@@ -2,8 +2,8 @@
     "name": "Dress shirt White  #1195",
     "description": "I think everyone should have a classic White shirt.",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmPQjbMNnziDbNr9fyf24dPjzpKtLYUYLTzRinFoRUUSi6/Uncommon-Shirt-White.png",
-    "content_url": "ipfs://ipfs/QmPQjbMNnziDbNr9fyf24dPjzpKtLYUYLTzRinFoRUUSi6/Uncommon-Shirt-White-1.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmPQjbMNnziDbNr9fyf24dPjzpKtLYUYLTzRinFoRUUSi6/Uncommon-Shirt-White.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmPQjbMNnziDbNr9fyf24dPjzpKtLYUYLTzRinFoRUUSi6/Uncommon-Shirt-White-1.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

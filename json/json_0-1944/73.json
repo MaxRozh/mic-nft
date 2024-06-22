@@ -2,8 +2,8 @@
   "name": "Streat wear TonTaxi  #224",
   "description": "Best oversized T-shirt Hello from TonTaxi.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmQjPGCS2Lcivp2NvNhNRuavu4B7BCL8RVYCzDN4BuitZq/Копия%20Common-ton-taxi.png",
-  "content_url": "ipfs://QmQjPGCS2Lcivp2NvNhNRuavu4B7BCL8RVYCzDN4BuitZq/Копия%20Common-ton-taxi.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmQjPGCS2Lcivp2NvNhNRuavu4B7BCL8RVYCzDN4BuitZq/Копия%20Common-ton-taxi.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmQjPGCS2Lcivp2NvNhNRuavu4B7BCL8RVYCzDN4BuitZq/Копия%20Common-ton-taxi.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

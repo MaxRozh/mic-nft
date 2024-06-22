@@ -2,8 +2,8 @@
     "name": "Formal suit Barboskin #1944",
     "description": "A unique suit that gives access to private ",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmRcYPxEBoryycqCHN3ZifygZFkNxYpaN9AP2DzcVDsP47/Arcane-Barboskin.png",
-    "content_url": "ipfs://ipfs/ipfs/QmRcYPxEBoryycqCHN3ZifygZFkNxYpaN9AP2DzcVDsP47/Arcane-Barboskin.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmRcYPxEBoryycqCHN3ZifygZFkNxYpaN9AP2DzcVDsP47/Arcane-Barboskin.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmRcYPxEBoryycqCHN3ZifygZFkNxYpaN9AP2DzcVDsP47/Arcane-Barboskin.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

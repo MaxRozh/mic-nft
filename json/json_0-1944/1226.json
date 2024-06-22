@@ -2,8 +2,8 @@
     "name": "School Skirt Blue #1666",
     "description": "School Skirt in Blue collor  ",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmTBHTggVpdP68EM7GETWCwceQwKBaThPLoSNKUeRZcReP/Mythical-Skirt-blue.png",
-    "content_url": "ipfs://ipfs/ipfs/QmTBHTggVpdP68EM7GETWCwceQwKBaThPLoSNKUeRZcReP/Mythical-Skirt-blue.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmTBHTggVpdP68EM7GETWCwceQwKBaThPLoSNKUeRZcReP/Mythical-Skirt-blue.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmTBHTggVpdP68EM7GETWCwceQwKBaThPLoSNKUeRZcReP/Mythical-Skirt-blue.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

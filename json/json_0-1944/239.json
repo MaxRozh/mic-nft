@@ -2,8 +2,8 @@
   "name": "Shorts HYDRA  #444",
   "description": "Classic men's shorts with our friendly character HYDRA.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmRRQtXgxRZxANiqfDtCRUQwfX7fWeaQzbkU8iE1CwDAyK/shorts-hydra.png",
-  "content_url": "ipfs://QmRRQtXgxRZxANiqfDtCRUQwfX7fWeaQzbkU8iE1CwDAyK/shorts-hydra.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmRRQtXgxRZxANiqfDtCRUQwfX7fWeaQzbkU8iE1CwDAyK/shorts-hydra.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmRRQtXgxRZxANiqfDtCRUQwfX7fWeaQzbkU8iE1CwDAyK/shorts-hydra.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

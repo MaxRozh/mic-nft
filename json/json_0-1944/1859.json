@@ -2,8 +2,8 @@
   "name": "Classic Shirt Black #1788",
   "description": "Classic Shirt Black",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmakN8bcd17Hfb58LK8ENaPQeu8DdfWsJ7YjKuuHPNuPdR/Shirt-Barboskin-W-black.png",
-  "content_url": "ipfs://ipfs/ipfs/QmakN8bcd17Hfb58LK8ENaPQeu8DdfWsJ7YjKuuHPNuPdR/Shirt-Barboskin-W-black.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmakN8bcd17Hfb58LK8ENaPQeu8DdfWsJ7YjKuuHPNuPdR/Shirt-Barboskin-W-black.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmakN8bcd17Hfb58LK8ENaPQeu8DdfWsJ7YjKuuHPNuPdR/Shirt-Barboskin-W-black.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

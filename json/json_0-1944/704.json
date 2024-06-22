@@ -2,8 +2,8 @@
   "name": "Short military Black #1774",
   "description": "Short military Black collor",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmRZKgbCm3aMUFunANyb6RLF1wNsNKnoQv5j1K18aicLwy/Shorts-military-black.png",
-  "content_url": "ipfs://ipfs/ipfs/QmRZKgbCm3aMUFunANyb6RLF1wNsNKnoQv5j1K18aicLwy/Shorts-military-black.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmRZKgbCm3aMUFunANyb6RLF1wNsNKnoQv5j1K18aicLwy/Shorts-military-black.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmRZKgbCm3aMUFunANyb6RLF1wNsNKnoQv5j1K18aicLwy/Shorts-military-black.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

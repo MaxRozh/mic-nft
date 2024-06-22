@@ -2,8 +2,8 @@
   "name": "Crop Microdiving White #1578",
   "description": "Branded crop top with our logo MIC.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmcbH4G7Ua2stB46oxjt7YhJ2dbnj6bewnQJ2qEX2ChNJM/Crop-MIC-white.png",
-  "content_url": "ipfs://ipfs/QmcbH4G7Ua2stB46oxjt7YhJ2dbnj6bewnQJ2qEX2ChNJM/Crop-MIC-white.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmcbH4G7Ua2stB46oxjt7YhJ2dbnj6bewnQJ2qEX2ChNJM/Crop-MIC-white.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmcbH4G7Ua2stB46oxjt7YhJ2dbnj6bewnQJ2qEX2ChNJM/Crop-MIC-white.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

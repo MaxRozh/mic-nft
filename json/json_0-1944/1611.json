@@ -2,8 +2,8 @@
   "name": "Street Wear Long MAGAZ    #1108",
   "description": "Well, it’s really convenient and I’m here about clothes and MAGAZ.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmaADGSyDGbxpdRUxQ4TaBxkyskgg8YQ3UFKdJHKE1qv4A/Uncommon-hydra.png",
-  "content_url": "ipfs://ipfs/QmaADGSyDGbxpdRUxQ4TaBxkyskgg8YQ3UFKdJHKE1qv4A/Uncommon-hydra.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmaADGSyDGbxpdRUxQ4TaBxkyskgg8YQ3UFKdJHKE1qv4A/Uncommon-hydra.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmaADGSyDGbxpdRUxQ4TaBxkyskgg8YQ3UFKdJHKE1qv4A/Uncommon-hydra.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

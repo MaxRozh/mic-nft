@@ -2,8 +2,8 @@
     "name": "Dress shirt Black  #1225",
     "description": "I think everyone should have a classic Black shirt.",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmS1kjj5pndDSn85EK3ne5sqim3ArYk84zHtmCjcFcAorM/Uncommon-Shirt-Black.png",
-    "content_url": "ipfs://ipfs/QmS1kjj5pndDSn85EK3ne5sqim3ArYk84zHtmCjcFcAorM/Uncommon-Shirt-Black-1.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmS1kjj5pndDSn85EK3ne5sqim3ArYk84zHtmCjcFcAorM/Uncommon-Shirt-Black.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmS1kjj5pndDSn85EK3ne5sqim3ArYk84zHtmCjcFcAorM/Uncommon-Shirt-Black-1.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

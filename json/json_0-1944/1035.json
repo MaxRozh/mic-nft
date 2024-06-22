@@ -2,8 +2,8 @@
   "name": "Vest unloading HYDRA #1906",
   "description": "Vest unloading HYDRA ",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmRZ4dftZmo49m66yVz5wsfjBrPvpgxThoHC9pskHLiaC6/Jacket1-black-Hydra.png",
-  "content_url": "ipfs://ipfs/ipfs/QmRZ4dftZmo49m66yVz5wsfjBrPvpgxThoHC9pskHLiaC6/Jacket1-black-Hydra.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmRZ4dftZmo49m66yVz5wsfjBrPvpgxThoHC9pskHLiaC6/Jacket1-black-Hydra.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmRZ4dftZmo49m66yVz5wsfjBrPvpgxThoHC9pskHLiaC6/Jacket1-black-Hydra.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

@@ -2,8 +2,8 @@
   "name": "Street Wear Long TonTaxi  #1104",
   "description": "I wonder how many free taxi rides there are?.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmVCrvA99iRHWWyFJQRpiXeoGnGPfAa8QeFDcLXd7HXWAK/Uncommon-ton-taxi.png",
-  "content_url": "ipfs://ipfs/QmVCrvA99iRHWWyFJQRpiXeoGnGPfAa8QeFDcLXd7HXWAK/Uncommon-ton-taxi.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmVCrvA99iRHWWyFJQRpiXeoGnGPfAa8QeFDcLXd7HXWAK/Uncommon-ton-taxi.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmVCrvA99iRHWWyFJQRpiXeoGnGPfAa8QeFDcLXd7HXWAK/Uncommon-ton-taxi.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

@@ -2,8 +2,8 @@
     "name": "Classic Black skirt  #360",
     "description": "A classic black skirt that every girl should have!.",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmaBTw1rA2EDXAKDw3bC5EeRY78LSACn8By4wwai6bKruv/Common-skirt-black.png",
-    "content_url": "ipfs://QmaBTw1rA2EDXAKDw3bC5EeRY78LSACn8By4wwai6bKruv/Common-skirt-black.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmaBTw1rA2EDXAKDw3bC5EeRY78LSACn8By4wwai6bKruv/Common-skirt-black.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmaBTw1rA2EDXAKDw3bC5EeRY78LSACn8By4wwai6bKruv/Common-skirt-black.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

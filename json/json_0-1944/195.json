@@ -2,8 +2,8 @@
     "name": "SHirt White #1681",
     "description": "Classic white long ",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmVN6919eKJppnZQtuMFDZsRkk5CDCKRe5tRBbAYaMypN7/Mythical-shirt-white.png",
-    "content_url": "ipfs://ipfs/ipfs/QmVN6919eKJppnZQtuMFDZsRkk5CDCKRe5tRBbAYaMypN7/Mythical-shirt-white.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmVN6919eKJppnZQtuMFDZsRkk5CDCKRe5tRBbAYaMypN7/Mythical-shirt-white.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmVN6919eKJppnZQtuMFDZsRkk5CDCKRe5tRBbAYaMypN7/Mythical-shirt-white.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

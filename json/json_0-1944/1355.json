@@ -2,8 +2,8 @@
   "name": "Basic Hoodie HYDRA #1491",
   "description": "Convenient Hudos from HYDRA.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/Hydra%201491/Hoodie-Hydra.png",
-  "content_url": "ipfs://ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/Hydra%201491/Hoodie-Hydra.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/Hydra%201491/Hoodie-Hydra.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/Hydra%201491/Hoodie-Hydra.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

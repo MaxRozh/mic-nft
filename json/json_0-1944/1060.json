@@ -2,8 +2,8 @@
     "name": "Street Wear Long Blue    #1080",
     "description": "Oversize Street Style Long Loop T-Shirt.",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmV29Ui3e1TXdoDQ7z1p8po1Sie76UzNLKdhBN1J4VBuPV/Uncommon-blue.png",
-    "content_url": "ipfs://ipfs/QmV29Ui3e1TXdoDQ7z1p8po1Sie76UzNLKdhBN1J4VBuPV/Uncommon-blue.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmV29Ui3e1TXdoDQ7z1p8po1Sie76UzNLKdhBN1J4VBuPV/Uncommon-blue.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmV29Ui3e1TXdoDQ7z1p8po1Sie76UzNLKdhBN1J4VBuPV/Uncommon-blue.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

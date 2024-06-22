@@ -2,8 +2,8 @@
   "name": "Classic jacket Barboskin #1599",
   "description": "A classic jacket that will highlight your successful transactions.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmQCbz94nSj91su7Z34UQ799m44qNWWyMhzSj2xHb43P36/Barboskin-blazer-dark-blue.png",
-  "content_url": "ipfs://ipfs/QmQCbz94nSj91su7Z34UQ799m44qNWWyMhzSj2xHb43P36/Barboskin-blazer-dark-blue.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmQCbz94nSj91su7Z34UQ799m44qNWWyMhzSj2xHb43P36/Barboskin-blazer-dark-blue.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmQCbz94nSj91su7Z34UQ799m44qNWWyMhzSj2xHb43P36/Barboskin-blazer-dark-blue.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

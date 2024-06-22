@@ -2,8 +2,8 @@
   "name": "Carbon bodysuit from MIC  #1867",
   "description": "Carbon bodysuit from MIC",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/Qma89uo5gcme5xEFWHkzrGr652qDGevTVFxvFxFEMCrcei/Swimwear-MIC.png",
-  "content_url": "ipfs://ipfs/ipfs/Qma89uo5gcme5xEFWHkzrGr652qDGevTVFxvFxFEMCrcei/Swimwear-MIC.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qma89uo5gcme5xEFWHkzrGr652qDGevTVFxvFxFEMCrcei/Swimwear-MIC.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/Qma89uo5gcme5xEFWHkzrGr652qDGevTVFxvFxFEMCrcei/Swimwear-MIC.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

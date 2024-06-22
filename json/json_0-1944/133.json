@@ -2,8 +2,8 @@
   "name": "Streat wear TonLancer  #228",
   "description": "Best oversized T-shirt Hello from TonLancer.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmW65CUUVN2bxXNPzkbqp93Uo6qfZJcKBj2MCnyLvS3q28/Копия%20Common-ton-lancer.png",
-  "content_url": "ipfs://QmW65CUUVN2bxXNPzkbqp93Uo6qfZJcKBj2MCnyLvS3q28/Копия%20Common-ton-lancer.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmW65CUUVN2bxXNPzkbqp93Uo6qfZJcKBj2MCnyLvS3q28/Копия%20Common-ton-lancer.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmW65CUUVN2bxXNPzkbqp93Uo6qfZJcKBj2MCnyLvS3q28/Копия%20Common-ton-lancer.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

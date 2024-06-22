@@ -2,8 +2,8 @@
     "name": "Shirt with ruffles Black #1877",
     "description": "Black Shirt with ruffles, Where is the set with ears?",
     "content_type": "video/mp4",
-    "image": "ipfs://ipfs/QmeR5RbsGWjCrvm9CfnntaskhYGo7xpJMSaQSsMee6scze/Immortal-shirt-black.png",
-    "content_url": "ipfs://ipfs/ipfs/QmeR5RbsGWjCrvm9CfnntaskhYGo7xpJMSaQSsMee6scze/Immortal-shirt-black.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmeR5RbsGWjCrvm9CfnntaskhYGo7xpJMSaQSsMee6scze/Immortal-shirt-black.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmeR5RbsGWjCrvm9CfnntaskhYGo7xpJMSaQSsMee6scze/Immortal-shirt-black.mp4",
     "attributes": [
         {
             "trait_type": "Rarity ",

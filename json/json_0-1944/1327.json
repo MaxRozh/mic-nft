@@ -2,8 +2,8 @@
   "name": "Street Wear Long FlappyDonut    #1110",
   "description": "Everyone loves donuts and so do we.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmNjioKvUA5JnKuDngZLhkKfMVEgdtWrNtopPcjaFKPAYp/Uncommon-flappy-donut.png",
-  "content_url": "ipfs://ipfs/QmNjioKvUA5JnKuDngZLhkKfMVEgdtWrNtopPcjaFKPAYp/Uncommon-flappy-donut.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmNjioKvUA5JnKuDngZLhkKfMVEgdtWrNtopPcjaFKPAYp/Uncommon-flappy-donut.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmNjioKvUA5JnKuDngZLhkKfMVEgdtWrNtopPcjaFKPAYp/Uncommon-flappy-donut.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

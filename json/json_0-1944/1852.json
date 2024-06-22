@@ -2,8 +2,8 @@
   "name": "Streat wear EvilZeus  #233",
   "description": "Best oversized T-shirt Hello from EvilZeus.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmeZv3do53SU653vtQzxK8gLoE4VWNJvmHoK4R7TWPKoCw/Common-life-in-the-crypto.png",
-  "content_url": "ipfs://QmeZv3do53SU653vtQzxK8gLoE4VWNJvmHoK4R7TWPKoCw/Common-life-in-the-crypto.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmeZv3do53SU653vtQzxK8gLoE4VWNJvmHoK4R7TWPKoCw/Common-life-in-the-crypto.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmeZv3do53SU653vtQzxK8gLoE4VWNJvmHoK4R7TWPKoCw/Common-life-in-the-crypto.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

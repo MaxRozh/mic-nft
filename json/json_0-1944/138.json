@@ -2,8 +2,8 @@
   "name": "Shirt Black  #270",
   "description": "Classic black shirt.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmUzPig9JJh9Ka6qfiPHVRLSmMeKBQLfUk853pPMfeM2B7/Sleeve-shirt-black.png",
-  "content_url": "ipfs://QmUzPig9JJh9Ka6qfiPHVRLSmMeKBQLfUk853pPMfeM2B7/Sleeve-shirt-black.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmUzPig9JJh9Ka6qfiPHVRLSmMeKBQLfUk853pPMfeM2B7/Sleeve-shirt-black.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmUzPig9JJh9Ka6qfiPHVRLSmMeKBQLfUk853pPMfeM2B7/Sleeve-shirt-black.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

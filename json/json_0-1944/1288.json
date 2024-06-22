@@ -2,8 +2,8 @@
   "name": "Carbon bodysuit from HYDRA  #1869",
   "description": "Carbon bodysuit from HYDRA",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmS2PDAbXT14UWn1Uhgi1qp961WsmnCk7ZmfgGaUhyxHuZ/Swimwear-Hydra.png",
-  "content_url": "ipfs://ipfs/ipfs/QmS2PDAbXT14UWn1Uhgi1qp961WsmnCk7ZmfgGaUhyxHuZ/Swimwear-Hydra.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmS2PDAbXT14UWn1Uhgi1qp961WsmnCk7ZmfgGaUhyxHuZ/Swimwear-Hydra.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmS2PDAbXT14UWn1Uhgi1qp961WsmnCk7ZmfgGaUhyxHuZ/Swimwear-Hydra.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

@@ -2,8 +2,8 @@
   "name": "Set MIC #1855",
   "description": "What could be better than a light, beautiful outfit from our designer?",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmVuv1UT1uQmksaHnzt52xDo8f2Ms7bJgBGVkq1FfNmer2/Set-MIC.png",
-  "content_url": "ipfs://ipfs/ipfs/QmVuv1UT1uQmksaHnzt52xDo8f2Ms7bJgBGVkq1FfNmer2/Set-MIC.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmVuv1UT1uQmksaHnzt52xDo8f2Ms7bJgBGVkq1FfNmer2/Set-MIC.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmVuv1UT1uQmksaHnzt52xDo8f2Ms7bJgBGVkq1FfNmer2/Set-MIC.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

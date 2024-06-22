@@ -2,8 +2,8 @@
   "name": "Classic Shirt White #1783",
   "description": "Classic Shirt White",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmP7G77bCED9idi1Bkbj5US55EXUN3dt4SfkwuEi8WfG5Z/Shirt-Barboskin-W-white.png",
-  "content_url": "ipfs://ipfs/ipfs/QmP7G77bCED9idi1Bkbj5US55EXUN3dt4SfkwuEi8WfG5Z/Shirt-Barboskin-W-white.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmP7G77bCED9idi1Bkbj5US55EXUN3dt4SfkwuEi8WfG5Z/Shirt-Barboskin-W-white.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmP7G77bCED9idi1Bkbj5US55EXUN3dt4SfkwuEi8WfG5Z/Shirt-Barboskin-W-white.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

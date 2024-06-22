@@ -2,8 +2,8 @@
   "name": "HYDRA Underwear MIC #1608",
   "description": "The most comfortable and fresh with our HYDRA logo.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmeRgYfbiN11ftwW2aJFshNDohCut4Dk9MyLQqi7mrv1t8/Mythical-Underwear-Hydra-black.png",
-  "content_url": "ipfs://ipfs/QmeRgYfbiN11ftwW2aJFshNDohCut4Dk9MyLQqi7mrv1t8/Mythical-Underwear-Hydra-black.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmeRgYfbiN11ftwW2aJFshNDohCut4Dk9MyLQqi7mrv1t8/Mythical-Underwear-Hydra-black.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmeRgYfbiN11ftwW2aJFshNDohCut4Dk9MyLQqi7mrv1t8/Mythical-Underwear-Hydra-black.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",

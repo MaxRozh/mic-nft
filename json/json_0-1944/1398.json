@@ -2,8 +2,8 @@
   "name": "Basic Hoodie MIC #1488",
   "description": "Convenient Hudos from MIC.",
   "content_type": "video/mp4",
-  "image": "ipfs://ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/MIC%201488/Hoodie-MIC.png",
-  "content_url": "ipfs://ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/MIC%201488/Hoodie-MIC.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/MIC%201488/Hoodie-MIC.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmUL5vTRAa2rQTbgBVgSnGpre1tNo7qSKyZ5rrWXzpurT6/MIC%201488/Hoodie-MIC.mp4",
   "attributes": [
     {
       "trait_type": "Rarity ",
