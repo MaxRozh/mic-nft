@@ -1,21 +1,21 @@
 {
-    "name": "Graphite Leggins  #600",
+    "name": "Graphite Leggings  #600",
     "description": "Basic Graphite leggings that perfectly highlight your figure .",
     "content_type": "video/mp4",
     "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmfZbrYgds6F3eyNNqsvf8oisKYf7vwmgDJtDQvT46pTM3/Leggings-basic_Graphite.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmfZbrYgds6F3eyNNqsvf8oisKYf7vwmgDJtDQvT46pTM3/Leggings-basic-graphite.mp4",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmfZbrYgds6F3eyNNqsvf8oisKYf7vwmgDJtDQvT46pTM3/Leggings-basic-graphite.mp4",
     "attributes": [
         {
-            "trait_type": "Rarity ",
+            "trait_type": "Rarity",
             "value": "Common"
         },
         {
             "trait_type": "Material",
-            "value": "Microdiving "
+            "value": "Microdiving"
         },
         {
             "trait_type": "Type",
-            "value": "Leggins"
+            "value": "Leggings"
         },
         {
             "trait_type": "Color",

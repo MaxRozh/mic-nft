@@ -1,17 +1,17 @@
 {
     "name": "Eco leather vest gray #1709",
-    "description": "classic eco leather vest gray",
+    "description": "Classic Eco leather vest gray",
     "content_type": "video/mp4",
     "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmXPQCyRfdoHhGHHnQ2LXLtjd6DAr7vV5qyMzLsCsCjKdq/Jacket-Barboskin-grey.png",
     "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmXPQCyRfdoHhGHHnQ2LXLtjd6DAr7vV5qyMzLsCsCjKdq/Jacket-Barboskin-grey.mp4",
     "attributes": [
         {
-            "trait_type": "Rarity ",
+            "trait_type": "Rarity",
             "value": "Mythical"
         },
         {
             "trait_type": "Material",
-            "value": " Eco "
+            "value": "Eco"
         },
         {
             "trait_type": "Type",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Color",
-            "value": "Black"
+            "value": "Gray"
         },
         {
             "trait_type": "margin",

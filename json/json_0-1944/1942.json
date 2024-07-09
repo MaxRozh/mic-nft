@@ -6,12 +6,12 @@
   "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmPQjbMNnziDbNr9fyf24dPjzpKtLYUYLTzRinFoRUUSi6/Uncommon-Shirt-White-1.mp4",
   "attributes": [
     {
-      "trait_type": "Rarity ",
+      "trait_type": "Rarity",
       "value": "uncommon"
     },
     {
       "trait_type": "Material",
-      "value": " Cotton "
+      "value": "Cotton"
     },
     {
       "trait_type": "Type",

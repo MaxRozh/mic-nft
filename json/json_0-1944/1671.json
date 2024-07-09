@@ -1,13 +1,13 @@
 {
-  "name": "Ptah outffit punts #1933",
-  "description": "Ptah outffit punts for real birds ",
+  "name": "Ptah outfit punts #1933",
+  "description": "Ptah outfit punts for real birds ",
   "content_type": "video/mp4",
   "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmcrvNBZxM3Th4RfqG34URxSJGCTotpzHM2w6KTu22psb6/Ptah-outfit-W-bottom.png",
   "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmcrvNBZxM3Th4RfqG34URxSJGCTotpzHM2w6KTu22psb6/Ptah-outfit-W-bottom.mp4",
   "attributes": [
     {
-      "trait_type": "Rarity ",
-      "value": "Imortal"
+      "trait_type": "Rarity",
+      "value": "Immortal"
     },
     {
       "trait_type": "Material",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Type",
-      "value": "Leggins"
+      "value": "Leggings"
     },
     {
       "trait_type": "Color",

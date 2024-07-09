@@ -1,17 +1,17 @@
 {
     "name": "School Skirt Red #1655",
-    "description": "School Skirt in red collor  ",
+    "description": "School Skirt in red color  ",
     "content_type": "video/mp4",
     "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmTBHTggVpdP68EM7GETWCwceQwKBaThPLoSNKUeRZcReP/Mythical-Skirt-red.png",
     "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmTBHTggVpdP68EM7GETWCwceQwKBaThPLoSNKUeRZcReP/Mythical-Skirt-red.mp4",
     "attributes": [
         {
-            "trait_type": "Rarity ",
+            "trait_type": "Rarity",
             "value": "Mythical"
         },
         {
             "trait_type": "Material",
-            "value": " Cotton "
+            "value": "Cotton"
         },
         {
             "trait_type": "Type",

@@ -1,17 +1,17 @@
 {
-    "name": "SHirt White #1678",
+    "name": "Shirt White #1678",
     "description": "Classic white long ",
     "content_type": "video/mp4",
     "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmVN6919eKJppnZQtuMFDZsRkk5CDCKRe5tRBbAYaMypN7/Mythical-shirt-white.png",
     "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmVN6919eKJppnZQtuMFDZsRkk5CDCKRe5tRBbAYaMypN7/Mythical-shirt-white.mp4",
     "attributes": [
         {
-            "trait_type": "Rarity ",
+            "trait_type": "Rarity",
             "value": "Mythical"
         },
         {
             "trait_type": "Material",
-            "value": " Cotton "
+            "value": "Cotton"
         },
         {
             "trait_type": "Type",

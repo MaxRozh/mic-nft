@@ -1,12 +1,12 @@
 {
-  "name": "Streat wear FlappyDonut  #234",
-  "description": "Best oversized T-shirt Hello from FlappyDonut.",
+  "name": "Street wear FlappyDonut  #234",
+  "description": "Best oversize T-shirt Hello from FlappyDonut.",
   "content_type": "video/mp4",
   "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmaTuKzuxBtV8TjfEsgcqjfzf3S7FZo4MdF5sfakH1AsoY/Common-Flappy-Donut.png",
-  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmaTuKzuxBtV8TjfEsgcqjfzf3S7FZo4MdF5sfakH1AsoY/Common-Flappy-Donut.mp4",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmaTuKzuxBtV8TjfEsgcqjfzf3S7FZo4MdF5sfakH1AsoY/Common-Flappy-Donut.mp4",
   "attributes": [
     {
-      "trait_type": "Rarity ",
+      "trait_type": "Rarity",
       "value": "Common"
     },
     {

@@ -1,17 +1,17 @@
 {
-    "name": "Oversaiz StreatWear White #1627",
-    "description": "Oversized street style T-shirt.",
+    "name": "Oversize Street Wear White #1627",
+    "description": "oversize street style T-shirt.",
     "content_type": "video/mp4",
     "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmc1XFV3m8xfGA3QCDWHapau7o3zDmYrnNd7zFxM8Kt9H9/Mythical-StreetWear-white.png",
     "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/Qmc1XFV3m8xfGA3QCDWHapau7o3zDmYrnNd7zFxM8Kt9H9/Mythical-StreetWear-white.mp4",
     "attributes": [
         {
-            "trait_type": "Rarity ",
+            "trait_type": "Rarity",
             "value": "Mythical"
         },
         {
             "trait_type": "Material",
-            "value": " Cotton "
+            "value": "Cotton"
         },
         {
             "trait_type": "Type",

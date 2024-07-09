@@ -6,12 +6,12 @@
   "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmeRgYfbiN11ftwW2aJFshNDohCut4Dk9MyLQqi7mrv1t8/Mythical-Underwear-MIC-grey.mp4",
   "attributes": [
     {
-      "trait_type": "Rarity ",
+      "trait_type": "Rarity",
       "value": "Mythical"
     },
     {
       "trait_type": "Material",
-      "value": " Cotton "
+      "value": "Cotton"
     },
     {
       "trait_type": "Type",

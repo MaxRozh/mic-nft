@@ -1,17 +1,17 @@
 {
-    "name": "SWhite mini shorts #1432",
-    "description": "White mini shorts are so beautiful.",
+    "name": "Black mini shorts #1432",
+    "description": "Black mini shorts are so beautiful.",
     "content_type": "video/mp4",
     "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmdk2niKUn5iriBHUWUjyKCcukqJjRb11knh8BntpYj3Z8/Rare-shorts-black.png",
     "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmbkVuxin192xwnErvs6TrPpBjA9YgokVJ2H86kvBXvYv7/Rare-shorts-white-1.mp4",
     "attributes": [
         {
-            "trait_type": "Rarity ",
+            "trait_type": "Rarity",
             "value": "Rare"
         },
         {
             "trait_type": "Material",
-            "value": " Cotton "
+            "value": "Cotton"
         },
         {
             "trait_type": "Type",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Color",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "margin",

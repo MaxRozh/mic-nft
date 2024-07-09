@@ -1,12 +1,12 @@
 {
-    "name": "Streat wear Black  #218",
-    "description": "Best oversized T-shirt.",
+    "name": "Street wear Black  #218",
+    "description": "Best oversize T-shirt.",
     "content_type": "video/mp4",
     "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmS9aoQGrHhEUoa8nbxCpiNXy42S9tdmrFSQtcnQT6MB5o/Common-black.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmS9aoQGrHhEUoa8nbxCpiNXy42S9tdmrFSQtcnQT6MB5o/Common-black.mp4",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmS9aoQGrHhEUoa8nbxCpiNXy42S9tdmrFSQtcnQT6MB5o/Common-black.mp4",
     "attributes": [
         {
-            "trait_type": "Rarity ",
+            "trait_type": "Rarity",
             "value": "Common"
         },
         {

@@ -1,21 +1,21 @@
 {
-    "name": "Black Leggins  #662",
+    "name": "Black Leggings  #662",
     "description": "Basic black leggings that perfectly highlight your figure .",
     "content_type": "video/mp4",
     "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmUJ1F2a7VbZGR2PpDQ3V5Yq7gdKtpo2XLhtfFW13QEdHe/Leggings-basic_Black.png",
     "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmUJ1F2a7VbZGR2PpDQ3V5Yq7gdKtpo2XLhtfFW13QEdHe/Leggings-basic-black.mp4",
     "attributes": [
         {
-            "trait_type": "Rarity ",
+            "trait_type": "Rarity",
             "value": "Common"
         },
         {
             "trait_type": "Material",
-            "value": "Microdiving "
+            "value": "Microdiving"
         },
         {
             "trait_type": "Type",
-            "value": "Leggins"
+            "value": "Leggings"
         },
         {
             "trait_type": "Color",

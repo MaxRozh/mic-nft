@@ -1,21 +1,21 @@
 {
-    "name": "White Leggins  #528",
+    "name": "White Leggings  #528",
     "description": "Basic white leggings that perfectly highlight your figure .",
     "content_type": "video/mp4",
     "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmPUrckfhZEzAFPWdLTKLG53rKsN2aVu8e3tte6ARb6yqK/Leggings-basic_White.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/QmPUrckfhZEzAFPWdLTKLG53rKsN2aVu8e3tte6ARb6yqK/Leggings-basic-white.mp4",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmPUrckfhZEzAFPWdLTKLG53rKsN2aVu8e3tte6ARb6yqK/Leggings-basic-white.mp4",
     "attributes": [
         {
-            "trait_type": "Rarity ",
+            "trait_type": "Rarity",
             "value": "Common"
         },
         {
             "trait_type": "Material",
-            "value": "Microdiving "
+            "value": "Microdiving"
         },
         {
             "trait_type": "Type",
-            "value": "Leggins"
+            "value": "Leggings"
         },
         {
             "trait_type": "Color",

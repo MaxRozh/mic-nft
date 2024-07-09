@@ -1,12 +1,12 @@
 {
   "name": "Short military gray #1770",
-  "description": "Short military gray collor",
+  "description": "Short military gray color",
   "content_type": "video/mp4",
   "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmXRZq4tJuTwsZVGZLSVxAV4n455Sn4mrWYk1M9QnvqW4W/Shorts-military-grey.png",
   "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/ipfs/QmXRZq4tJuTwsZVGZLSVxAV4n455Sn4mrWYk1M9QnvqW4W/Shorts-military-grey.mp4",
   "attributes": [
     {
-      "trait_type": "Rarity ",
+      "trait_type": "Rarity",
       "value": "Legendary"
     },
     {
