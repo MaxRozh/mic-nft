@@ -7,7 +7,7 @@
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "UnCommon"
+      "value": "Uncommon"
     },
     {
       "trait_type": "Material",
@@ -26,7 +26,7 @@
       "value": "15%"
     },
     {
-      "trait_type": "Ambassadors margin",
+      "trait_type": "Ambassador margin",
       "value": "15%"
     },
     {
