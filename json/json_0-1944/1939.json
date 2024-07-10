@@ -1,9 +1,9 @@
 {
-    "name": "Street Wear Long Graphite  #1048",
-    "description": "Oversize Street Style Long Loop T-Shirt.",
+    "name": "Street Wear Ton Frogs #1048",
+    "description": "Oversize street style T-Shirt. Ton Frogs one love.",
     "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmQhFdx5MhAK7gE1zHdsMUiKxyBXm2ELJ5vQk8hLRKeZ74/Uncommon-graphite.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmQhFdx5MhAK7gE1zHdsMUiKxyBXm2ELJ5vQk8hLRKeZ74/Uncommon-graphite.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmWQXXsjSSAUjTg92c3vf2iWxMwV6Pbvs1kLbRUnQ43MHE/street_wear_tonfrog.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmWQXXsjSSAUjTg92c3vf2iWxMwV6Pbvs1kLbRUnQ43MHE/street_wear_tonfrog.mp4",
     "attributes": [
         {
             "trait_type": "Rarity",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Color",
-            "value": "Graphite"
+            "value": "Black"
         },
         {
             "trait_type": "margin",
@@ -27,6 +27,10 @@
         },
         {
             "trait_type": "tailoring margin",
+            "value": "15%"
+        },
+        {
+            "trait_type": "Ambassador margin",
             "value": "15%"
         }
     ]
