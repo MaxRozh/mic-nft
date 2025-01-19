@@ -1,9 +1,9 @@
 {
-  "name": "Crop Top Microdiving Black #1586",
-  "description": "Crop Top 2in1 MIC.",
+  "name": "LohScore St #1586",
+  "description": "Oversize T-shirt Zaebalo?Zaebalo!",
   "content_type": "video/mp4",
-  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmWKaJ7mJFvd8s58Mt6AMoJ6cSPj15dNi2UVCiwMUL3FMZ/Копия%20Crop%2Btop-whole.png",
-  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmWKaJ7mJFvd8s58Mt6AMoJ6cSPj15dNi2UVCiwMUL3FMZ/Копия%20Crop%2Btop-whole.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeigrweasvcgsfoixy3fl4lqu3fueojbrnivdpcob544oi3x6ebpqwi/3.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeigrweasvcgsfoixy3fl4lqu3fueojbrnivdpcob544oi3x6ebpqwi/3.mp4",
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -15,11 +15,11 @@
     },
     {
       "trait_type": "Type",
-      "value": "CropTop"
+      "value": "T-Shirt"
     },
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "Graphite"
     },
     {
       "trait_type": "margin",
@@ -28,6 +28,10 @@
     {
       "trait_type": "tailoring margin",
       "value": "15%"
-    }
+    },
+    {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
+    },
   ]
 }
