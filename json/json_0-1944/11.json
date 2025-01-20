@@ -1,13 +1,13 @@
 {
-    "name": "Street Style White T-Shirt #945",
-    "description": "Oversize Street Style Long Loop T-Shirt White.",
+    "name": "LohScore Hold Gray #945",
+    "description": "Hold 0.000001 sec or LoH?",
     "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmXiidvqNWCNsbESWxcQBshu68PoJukww3QJBfnWQyWMuo/Uncomon-Tank-top-white.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmXiidvqNWCNsbESWxcQBshu68PoJukww3QJBfnWQyWMuo/Uncomon-Tank-top-white-1.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiarb32zcygv42esvaw3kk4ubj2sumnlohzegactcclpxg2tssotly/2.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiarb32zcygv42esvaw3kk4ubj2sumnlohzegactcclpxg2tssotly/2.mp4",
     "attributes": [
         {
             "trait_type": "Rarity",
-            "value": "Uncommon"
+            "value": "Rare"
         },
         {
             "trait_type": "Material",
@@ -19,15 +19,19 @@
         },
         {
             "trait_type": "Color",
-            "value": "White"
+            "value": "Gray"
         },
         {
             "trait_type": "margin",
-            "value": "10%"
+            "value": "15%"
         },
         {
             "trait_type": "tailoring margin",
-            "value": "10%"
+            "value": "15%"
+        },
+        {
+      "trait_type": "Ambassador margin",
+      "value": "15%"
         }
     ]
 }
