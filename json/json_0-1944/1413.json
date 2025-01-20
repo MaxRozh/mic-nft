@@ -1,9 +1,9 @@
 {
-  "name": "TonRaid Hoodie #1749",
-  "description": "Black Primal Hoodie TonRaid",
+  "name": "LohScore Hold Black #1749",
+  "description": "Hold 0.000001 sec or LoH?",
   "content_type": "video/mp4",
-  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmbyYeSyLZby4DTm3Yh5KJwithfQaeX4fUUiKtXTP4ZRU3/Mythical-Hoodie-Ton-Raid.png",
-  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmbyYeSyLZby4DTm3Yh5KJwithfQaeX4fUUiKtXTP4ZRU3/Mythical-Hoodie-Ton-Raid.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiarb32zcygv42esvaw3kk4ubj2sumnlohzegactcclpxg2tssotly/1.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiarb32zcygv42esvaw3kk4ubj2sumnlohzegactcclpxg2tssotly/1.mp4",
   "attributes": [
     {
       "trait_type": "Rarity",
@@ -15,7 +15,7 @@
     },
     {
       "trait_type": "Type",
-      "value": "Hoodie"
+      "value": "T-Shirt"
     },
     {
       "trait_type": "Color",
