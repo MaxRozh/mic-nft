@@ -1,37 +1,37 @@
 {
-  "name": "Shorts Magaz  #443",
-  "description": "Classic men's shorts with our friendly character investkinguru.",
+  "name": "BASE Lootbox 1 #443",
+  "description": "White/Gold lootbox available for everyone. Contains basic NFTs to kickstart your journey in the Microdiving ecosystem.",
   "content_type": "video/mp4",
-  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmV8wEcYvR2yxTvn9RoUmdD8rVgRJ9KhQsSwKYtM9wCZPh/Men%20shorts-investkinguru.png",
-  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmV8wEcYvR2yxTvn9RoUmdD8rVgRJ9KhQsSwKYtM9wCZPh/Men%20shorts-investkinguru.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeih7ikbjhwq2bxcqjur6cd6et3nc6u5tqvfe2u72d3qbqlmoy3hk7m/2025-01-22%2015.13.57.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeih7ikbjhwq2bxcqjur6cd6et3nc6u5tqvfe2u72d3qbqlmoy3hk7m/NFT_LootBox_Base.mp4",
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Common"
+      "value": "BASE"
     },
     {
       "trait_type": "Material",
-      "value": "Stretchy cotton "
+      "value": "Common to Imortal"
     },
     {
       "trait_type": "Type",
-      "value": "Shorts"
+      "value": "Lootbox"
     },
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "White/Gold"
     },
     {
       "trait_type": "margin",
-      "value": "10%"
+      "value": "0%"
     },
     {
       "trait_type": "Ambassador margin",
-      "value": "10%"
+      "value": "0%"
     },
     {
       "trait_type": "tailoring margin",
-      "value": "10%"
+      "value": "0%"
     }
   ]
 }
