@@ -1,37 +1,37 @@
 {
-  "name": "Street Wear Long FlappyDonut    #1110",
-  "description": "Everyone loves donuts and so do we.",
+  "name": "RARE Lootbox 1   #1110",
+  "description": "Blue/Purple lootbox for those seeking greater rewards and opportunities.",
   "content_type": "video/mp4",
-  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmNjioKvUA5JnKuDngZLhkKfMVEgdtWrNtopPcjaFKPAYp/Uncommon-flappy-donut.png",
-  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmNjioKvUA5JnKuDngZLhkKfMVEgdtWrNtopPcjaFKPAYp/Uncommon-flappy-donut.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiclngfm3ksnuvhckmmmpv5yvxbc3rzuof7eu4ew4l3tsc74fdzoui/2025-01-22%2015.24.53.jpg",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiclngfm3ksnuvhckmmmpv5yvxbc3rzuof7eu4ew4l3tsc74fdzoui/NFT_LootBox_Rare_var4.mp4",
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Uncommon"
+      "value": "RARE"
     },
     {
       "trait_type": "Material",
-      "value": "Fabric loop "
+      "value": "Common to Imortal"
     },
     {
       "trait_type": "Type",
-      "value": "T-shirt"
+      "value": "Lootbox"
     },
     {
       "trait_type": "Color",
-      "value": "White"
+      "value": "Blue/Purple"
     },
     {
       "trait_type": "margin",
-      "value": "15%"
+      "value": "0"
     },
     {
       "trait_type": "Ambassador margin",
-      "value": "15%"
+      "value": "0%"
     },
     {
       "trait_type": "tailoring margin",
-      "value": "15%"
+      "value": "0%"
     }
   ]
 }
