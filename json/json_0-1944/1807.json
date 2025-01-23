@@ -1,9 +1,9 @@
 {
-    "name": "Set MIC #1857",
-    "description": "What could be better than a light, beautiful outfit from our designer?",
+    "name": "Black Jacket MIC #1857",
+    "description": "Black jacket with our brand",
     "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmVuv1UT1uQmksaHnzt52xDo8f2Ms7bJgBGVkq1FfNmer2/Set-MIC.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmVuv1UT1uQmksaHnzt52xDo8f2Ms7bJgBGVkq1FfNmer2/Set-MIC.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeihsm36wo5iqmfp5a2za7fau6zjnr57lzow7qchz7kmp2pmjy3ouj4/Jacket%206/Jacket_6(1).png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeihsm36wo5iqmfp5a2za7fau6zjnr57lzow7qchz7kmp2pmjy3ouj4/Jacket%206/Jacket_6(1).mp4",
     "attributes": [
         {
             "trait_type": "Rarity",
@@ -11,15 +11,15 @@
         },
         {
             "trait_type": "Material",
-            "value": "Eco "
+            "value": "Cotton"
         },
         {
             "trait_type": "Type",
-            "value": "Set"
+            "value": "Jacket"
         },
         {
             "trait_type": "Color",
-            "value": "Blue"
+            "value": "Black"
         },
         {
             "trait_type": " margin",
