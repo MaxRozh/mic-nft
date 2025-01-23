@@ -1,9 +1,9 @@
 {
-    "name": "Basic Hoodie White #1521",
-    "description": "Convenient Hudos from MIC.",
+    "name": "Basic black Golf #1521",
+    "description": "Black Golf from MIC.",
     "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmaUHe97cgd9CuG7GMHrDEWp7MPq4PrFtFr59AsCrG37d8/Clones%20White/Hoodie-White.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmaUHe97cgd9CuG7GMHrDEWp7MPq4PrFtFr59AsCrG37d8/Clones%20White/Hoodie-White-10.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeihsm36wo5iqmfp5a2za7fau6zjnr57lzow7qchz7kmp2pmjy3ouj4/golf/golf(1).png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeihsm36wo5iqmfp5a2za7fau6zjnr57lzow7qchz7kmp2pmjy3ouj4/golf/golf(1).mp4",
     "attributes": [
         {
             "trait_type": "Rarity",
@@ -15,11 +15,11 @@
         },
         {
             "trait_type": "Type",
-            "value": "Hoodie"
+            "value": "Golf"
         },
         {
             "trait_type": "Color",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "margin",
