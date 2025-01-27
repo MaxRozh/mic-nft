@@ -1,13 +1,13 @@
 {
-    "name": "Tank Top Men White  #92",
-    "description": "Basic white men's sleeveless vest in oversize style.",
+    "name": "Black Hoodie HYDRA   #92",
+    "description": "Black Hoodie Design from @signtomato",
     "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmcn2vu7JwCa1MQoEdNyHrzUXgVuqhjAf7dqfdavcooW1k/Common-tank-top-white.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmcn2vu7JwCa1MQoEdNyHrzUXgVuqhjAf7dqfdavcooW1k/Common-tank-top-white.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeig3fcu7bytl2esoau37afe2zfs2z3xv5xz6esuo3vtntzjreog7wu/2.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeig3fcu7bytl2esoau37afe2zfs2z3xv5xz6esuo3vtntzjreog7wu/2.mp4",
     "attributes": [
         {
             "trait_type": "Rarity",
-            "value": "Common"
+            "value": "Rare"
         },
         {
             "trait_type": "Material",
@@ -15,19 +15,22 @@
         },
         {
             "trait_type": "Type",
-            "value": "T-Shirt"
+            "value": "Hoodie"
         },
         {
             "trait_type": "Color",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "margin",
-            "value": "5%"
+            "value": "15%"
         },
         {
             "trait_type": "tailoring margin",
-            "value": "5%"
+            "value": "15%"
+        },
+            "trait_type": "Ambassador margin",
+      "value": "15%"
         }
     ]
 }
