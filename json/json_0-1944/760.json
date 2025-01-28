@@ -1,13 +1,13 @@
 {
-    "name": "Tank Top Black  #46",
-    "description": "Basic black top .",
+    "name": "Black Hoodie 9C  #46",
+    "description": "Nine Candles Hoodie .",
     "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmTpcsPCz3LweK6AcHjm7GmhXzX3CbaRuLcoWeWTkNengK/Tank-top-women-black.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmTpcsPCz3LweK6AcHjm7GmhXzX3CbaRuLcoWeWTkNengK/Tank-top-women-black.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiaiomrrxxk6dpbai34v4oxdeokgw5ghuf62bdz4ee3s7ik37d7sfy/1.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiaiomrrxxk6dpbai34v4oxdeokgw5ghuf62bdz4ee3s7ik37d7sfy/1.mp4",
     "attributes": [
         {
             "trait_type": "Rarity",
-            "value": "Common"
+            "value": "Legendary"
         },
         {
             "trait_type": "Material",
@@ -15,7 +15,7 @@
         },
         {
             "trait_type": "Type",
-            "value": "Top"
+            "value": "Hoodie"
         },
         {
             "trait_type": "Color",
@@ -23,11 +23,15 @@
         },
         {
             "trait_type": "margin",
-            "value": "5%"
+            "value": "25%"
         },
         {
             "trait_type": "tailoring margin",
-            "value": "5%"
+            "value": "25%"
+        },
+        {
+            "trait_type": "Ambassador margin",
+            "value": "25%"
         }
     ]
 }
