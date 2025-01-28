@@ -1,33 +1,33 @@
 {
-    "name": "White mini shorts #1428",
-    "description": "White mini shorts are so beautiful.",
-    "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmdk2niKUn5iriBHUWUjyKCcukqJjRb11knh8BntpYj3Z8/Rare-shorts-black.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmbkVuxin192xwnErvs6TrPpBjA9YgokVJ2H86kvBXvYv7/Rare-shorts-white-1.mp4",
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare"
-        },
-        {
-            "trait_type": "Material",
-            "value": "Cotton"
-        },
-        {
-            "trait_type": "Type",
-            "value": "Shorts"
-        },
-        {
-            "trait_type": "Color",
-            "value": "White"
-        },
-        {
-            "trait_type": "margin",
-            "value": "15%"
-        },
-        {
-            "trait_type": "tailoring margin",
-            "value": "15%"
-        }
-    ]
+  "name": "Legend Lootbox 13  #1428",
+  "description": "Black/Orange Legend Lootbox designed for collectors and true innovators in fashion.",
+  "content_type": "video/mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiczw4632xwsqfuxkrloich2xvu277yik3hacisb3fdp5ots72qphq/2025-01-22%2015.24.48.jpg",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeiczw4632xwsqfuxkrloich2xvu277yik3hacisb3fdp5ots72qphq/black.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legend"
+    },
+    {
+      "trait_type": "Material",
+      "value": "3 NFT rare-imortal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lootbox"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blacl/Orange"
+    },
+    {
+      "trait_type": "margin",
+      "value": "0%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "0%"
+    }
+  ]
 }
