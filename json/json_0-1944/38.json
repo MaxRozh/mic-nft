@@ -1,13 +1,13 @@
 {
-    "name": "White Bra  #1265",
-    "description": "Well, how can you pass by such beauty?.",
+    "name": "Joker Hoodie  #1265",
+    "description": "Stylish Joker hoodie from our whale.",
     "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmWuudsz9qMvBzFbqtUdrHXpYRkuCinQyrQ4NkAEjrKjkn/Uncommon-Bra-White-MIC.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmWuudsz9qMvBzFbqtUdrHXpYRkuCinQyrQ4NkAEjrKjkn/Uncommon-Bra-White-MIC-1.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeihplq4nfz2ufs6prycntbigiracowfbplxavzk2zyxmy6n7hhls2y/J.mp4",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeihplq4nfz2ufs6prycntbigiracowfbplxavzk2zyxmy6n7hhls2y/J.png",
     "attributes": [
         {
             "trait_type": "Rarity",
-            "value": "Uncommon"
+            "value": "Mythical"
         },
         {
             "trait_type": "Material",
@@ -15,18 +15,22 @@
         },
         {
             "trait_type": "Type",
-            "value": "Bra"
+            "value": "Hoodie"
         },
         {
             "trait_type": "Color",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "margin",
-            "value": "10%"
+            "value": "20%"
         },
         {
             "trait_type": "tailoring margin",
+            "value": "20%"
+        },
+        {
+            "trait_type": "Ambassador margin",
             "value": "10%"
         }
     ]
