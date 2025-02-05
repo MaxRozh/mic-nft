@@ -1,9 +1,9 @@
 {
-    "name": "Street Style White T-Shirt   #949",
-    "description": "Oversize Street Style Long Loop T-Shirt White .",
+    "name": "Scam Enot T-Shirt   #949",
+    "description": "Oversize Street Style ScamScore T-Shirt Black .",
     "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmXiidvqNWCNsbESWxcQBshu68PoJukww3QJBfnWQyWMuo/Uncomon-Tank-top-white.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmXiidvqNWCNsbESWxcQBshu68PoJukww3QJBfnWQyWMuo/Uncomon-Tank-top-white-1.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeifxp2v3i6jyeue2vnci6ts3g3q42dr63eijmq3kkgc63qnloizi4y/enot1.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeifxp2v3i6jyeue2vnci6ts3g3q42dr63eijmq3kkgc63qnloizi4y/enot1.mp4",
     "attributes": [
         {
             "trait_type": "Rarity",
@@ -19,7 +19,7 @@
         },
         {
             "trait_type": "Color",
-            "value": "White"
+            "value": "Black"
         },
         {
             "trait_type": "margin",
@@ -27,6 +27,10 @@
         },
         {
             "trait_type": "tailoring margin",
+            "value": "10%"
+        },
+        {
+            "trait_type": "Ambassador margin",
             "value": "10%"
         }
     ]
