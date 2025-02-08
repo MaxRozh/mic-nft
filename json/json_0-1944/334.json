@@ -1,13 +1,13 @@
 {
-    "name": "Shorts Black  #498",
-    "description": "Classic men's shorts .",
+    "name": "Gold Pepe T-shirt  #498",
+    "description": "T-shirt for real telegram gift makers with gold pepe .",
     "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmTqo5DUL4RTkuij7k521XSqkBjt53CaW3n88Z2vtygEhv/Men%20shorts-black.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmTqo5DUL4RTkuij7k521XSqkBjt53CaW3n88Z2vtygEhv/Men%20shorts-black.mp4",
+    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeid3f5rmzjlythje7eztg5jioocaljdrovha5eb55vbdawua26kuaq/pepe.png",
+    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeid3f5rmzjlythje7eztg5jioocaljdrovha5eb55vbdawua26kuaq/pepe.mp4",
     "attributes": [
         {
             "trait_type": "Rarity",
-            "value": "Common"
+            "value": "Rare"
         },
         {
             "trait_type": "Material",
@@ -15,19 +15,23 @@
         },
         {
             "trait_type": "Type",
-            "value": "Shorts"
+            "value": "T-shirt"
         },
         {
             "trait_type": "Color",
             "value": "Black"
         },
         {
+      "trait_type": "Ambassador margin",
+      "value": "10%"
+        },
+        {
             "trait_type": "margin",
-            "value": "5%"
+            "value": "15%"
         },
         {
             "trait_type": "tailoring margin",
-            "value": "5%"
+            "value": "15%"
         }
     ]
 }
