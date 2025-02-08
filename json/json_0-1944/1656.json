@@ -1,33 +1,33 @@
 {
-  "name": "Oversize Street Wear Black #1647",
-  "description": "Oversize Street Wear in Black color ",
+  "name": "Base Lootbox 3 #1647",
+  "description": "White/Gold Base Lootbox designed for collectors and true innovators in fashion.",
   "content_type": "video/mp4",
-  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmc1XFV3m8xfGA3QCDWHapau7o3zDmYrnNd7zFxM8Kt9H9/Mythical-StreetWear-black.png",
-  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmc1XFV3m8xfGA3QCDWHapau7o3zDmYrnNd7zFxM8Kt9H9/Mythical-StreetWear-black.mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeih7ikbjhwq2bxcqjur6cd6et3nc6u5tqvfe2u72d3qbqlmoy3hk7m/2025-01-22%2015.13.57.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeigtwg3orqcwvwogv7bzcz2vdujfwnzwhjxzu4omkuyp3hrci4euhi/white.mp4",
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Mythical"
+      "value": "Base"
     },
     {
       "trait_type": "Material",
-      "value": "Cotton"
+      "value": "1 NFT Common-imortal"
     },
     {
       "trait_type": "Type",
-      "value": "T-Shirt"
+      "value": "Lootbox"
     },
     {
       "trait_type": "Color",
-      "value": "Black"
+      "value": "White/Gold"
     },
     {
       "trait_type": "margin",
-      "value": "20%"
+      "value": "0%"
     },
     {
       "trait_type": "tailoring margin",
-      "value": "20%"
+      "value": "0%"
     }
   ]
 }
