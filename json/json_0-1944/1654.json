@@ -1,33 +1,33 @@
 {
-    "name": "Tank Top Men White  #79",
-    "description": "Basic white men's sleeveless vest in oversize style.",
-    "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmcn2vu7JwCa1MQoEdNyHrzUXgVuqhjAf7dqfdavcooW1k/Common-tank-top-white.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmcn2vu7JwCa1MQoEdNyHrzUXgVuqhjAf7dqfdavcooW1k/Common-tank-top-white.mp4",
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common"
-        },
-        {
-            "trait_type": "Material",
-            "value": "Cotton "
-        },
-        {
-            "trait_type": "Type",
-            "value": "T-Shirt"
-        },
-        {
-            "trait_type": "Color",
-            "value": "White"
-        },
-        {
-            "trait_type": "margin",
-            "value": "5%"
-        },
-        {
-            "trait_type": "tailoring margin",
-            "value": "5%"
-        }
-    ]
+  "name": "Base Lootbox 22 #1654",
+  "description": "White/Gold Base Lootbox designed for collectors and true innovators in fashion.",
+  "content_type": "video/mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeih7ikbjhwq2bxcqjur6cd6et3nc6u5tqvfe2u72d3qbqlmoy3hk7m/2025-01-22%2015.13.57.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeigtwg3orqcwvwogv7bzcz2vdujfwnzwhjxzu4omkuyp3hrci4euhi/white.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Material",
+      "value": "1 NFT Common-imortal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lootbox"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White/Gold"
+    },
+    {
+      "trait_type": "margin",
+      "value": "0%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "0%"
+    }
+  ]
 }
