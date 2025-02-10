@@ -1,33 +1,33 @@
 {
-    "name": "Black mini shorts #1444",
-    "description": "Black mini shorts are so beautiful.",
-    "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmdk2niKUn5iriBHUWUjyKCcukqJjRb11knh8BntpYj3Z8/Rare-shorts-black.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/Qmdk2niKUn5iriBHUWUjyKCcukqJjRb11knh8BntpYj3Z8/Rare-shorts-black.mp4",
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare"
-        },
-        {
-            "trait_type": "Material",
-            "value": "Cotton"
-        },
-        {
-            "trait_type": "Type",
-            "value": "Shorts"
-        },
-        {
-            "trait_type": "Color",
-            "value": "Black"
-        },
-        {
-            "trait_type": "margin",
-            "value": "15%"
-        },
-        {
-            "trait_type": "tailoring margin",
-            "value": "15%"
-        }
-    ]
+  "name": "Base Lootbox 76 #1559",
+  "description": "White/Gold Base Lootbox designed for collectors and true innovators in fashion.",
+  "content_type": "video/mp4",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeih7ikbjhwq2bxcqjur6cd6et3nc6u5tqvfe2u72d3qbqlmoy3hk7m/2025-01-22%2015.13.57.png",
+  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeigtwg3orqcwvwogv7bzcz2vdujfwnzwhjxzu4omkuyp3hrci4euhi/white.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Material",
+      "value": "1 NFT Common-imortal"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Lootbox"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White/Gold"
+    },
+    {
+      "trait_type": "margin",
+      "value": "0%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "0%"
+    }
+  ]
 }
