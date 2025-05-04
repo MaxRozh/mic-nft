@@ -1,33 +1,31 @@
 {
-    "name": "Street wear White  #179",
-    "description": "Oversize T-shirt made from the best loop.",
-    "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmPwUkdheDTg4E2Wf8AqVRiUrSWkAwCuaUoZ8WoPcXFrdx/Common-white.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmPwUkdheDTg4E2Wf8AqVRiUrSWkAwCuaUoZ8WoPcXFrdx/Common-white.mp4",
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Common"
-        },
-        {
-            "trait_type": "Material",
-            "value": "Three-thread"
-        },
-        {
-            "trait_type": "Type",
-            "value": "T-Shirt"
-        },
-        {
-            "trait_type": "Color",
-            "value": "White"
-        },
-        {
-            "trait_type": "margin",
-            "value": "5%"
-        },
-        {
-            "trait_type": "tailoring margin",
-            "value": "5%"
-        }
-    ]
+  "name": "Eggonomic Stake Pass #10",
+  "description": "This NFT confirms your active participation in the Eggonomics staking system. It serves as a digital passport that stores your points, staking stats, and unlocks features in the app and future RWA rewards.",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeid5jzbvkkitybdrjxxg2nrifxn5dokvx2tils2tmrwcj2f6yvua6i/photo_2025-05-04%2019.50.08.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Staked Eggs",
+      "value": 4
+    },
+    {
+      "trait_type": "Points Total",
+      "value": 480
+    },
+    {
+      "trait_type": "Points Today",
+      "value": 8
+    },
+    {
+      "trait_type": "Referrals",
+      "value": 0
+    },
+    {
+      "trait_type": "Status",
+      "value": "Active"
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Eggman"
+    }
+  ]
 }
