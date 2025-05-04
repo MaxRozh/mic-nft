@@ -1,33 +1,31 @@
 {
-  "name": "Black dress shirt #1765",
-  "description": "Black classic shirt pink is the hit of the season",
-  "content_type": "video/mp4",
-  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmaaKoacghZzmNo9oQYmSriMJceqxePWkQrYqCC39gBHQJ/Shirt-Barboskin-men-black.png",
-  "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmaaKoacghZzmNo9oQYmSriMJceqxePWkQrYqCC39gBHQJ/Shirt-Barboskin-men-black.mp4",
+  "name": "Eggonomic Stake Pass #38",
+  "description": "This NFT confirms your active participation in the Eggonomics staking system. It serves as a digital passport that stores your points, staking stats, and unlocks features in the app and future RWA rewards.",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeid5jzbvkkitybdrjxxg2nrifxn5dokvx2tils2tmrwcj2f6yvua6i/photo_2025-05-04%2019.50.08.jpeg",
   "attributes": [
     {
-      "trait_type": "Rarity",
-      "value": "Legendary"
+      "trait_type": "Staked Eggs",
+      "value": 1
     },
     {
-      "trait_type": "Material",
-      "value": "Cotton "
+      "trait_type": "Points Total",
+      "value": 120
     },
     {
-      "trait_type": "Type",
-      "value": "Shirt"
+      "trait_type": "Points Today",
+      "value": 5
     },
     {
-      "trait_type": "Color",
-      "value": "Black"
+      "trait_type": "Referrals",
+      "value": 0
     },
     {
-      "trait_type": " margin",
-      "value": "25%"
+      "trait_type": "Status",
+      "value": "Active"
     },
     {
-      "trait_type": "tailoring margin",
-      "value": "25%"
+      "trait_type": "Rank",
+      "value": "Holder"
     }
   ]
 }
