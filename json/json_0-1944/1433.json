@@ -5,15 +5,15 @@
   "attributes": [
     {
       "trait_type": "Staked Eggs",
-      "value": 8
+      "value": 16
     },
     {
       "trait_type": "Points Total",
-      "value": 960
+      "value": 1344
     },
     {
       "trait_type": "Points Today",
-      "value": 14
+      "value": 384
     },
     {
       "trait_type": "Referrals",
