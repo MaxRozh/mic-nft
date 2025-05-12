@@ -1,33 +1,31 @@
 {
-    "name": "Black men's briefs  #1361",
-    "description": "Men's briefs, light, fresh, everything as it should be.",
-    "content_type": "video/mp4",
-    "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmQmrAJJbhoaZotPZi5zfkaVA8Vy65HWCF2SKHGu34Ug7c/Rare-Underwear-black.png",
-    "content_url": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/QmQmrAJJbhoaZotPZi5zfkaVA8Vy65HWCF2SKHGu34Ug7c/Rare-Underwear-black-1.mp4",
-    "attributes": [
-        {
-            "trait_type": "Rarity",
-            "value": "Rare"
-        },
-        {
-            "trait_type": "Material",
-            "value": "Cotton"
-        },
-        {
-            "trait_type": "Type",
-            "value": "underwear"
-        },
-        {
-            "trait_type": "Color",
-            "value": "Black"
-        },
-        {
-            "trait_type": "margin",
-            "value": "15%"
-        },
-        {
-            "trait_type": "tailoring margin",
-            "value": "15%"
-        }
-    ]
+  "name": "Eggonomic Stake Pass #53",
+  "description": "This NFT confirms your active participation in the Eggonomics staking system. It serves as a digital passport that stores your points, staking stats, and unlocks features in the app and future RWA rewards.",
+  "image": "https://fuchsia-tragic-parrotfish-233.mypinata.cloud/ipfs/bafybeid5jzbvkkitybdrjxxg2nrifxn5dokvx2tils2tmrwcj2f6yvua6i/photo_2025-05-04%2019.50.08.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Staked Eggs",
+      "value": 9
+    },
+    {
+      "trait_type": "Points Total",
+      "value": 0
+    },
+    {
+      "trait_type": "Points Today",
+      "value": 0
+    },
+    {
+      "trait_type": "Referrals",
+      "value": 0
+    },
+    {
+      "trait_type": "Status",
+      "value": "Active"
+    },
+    {
+      "trait_type": "Rank",
+      "value": "Eggman"
+    }
+  ]
 }
